@@ -1,0 +1,4989 @@
+{
+  "timestamp": "2025-08-13T23:04:09.319012",
+  "execution_time_seconds": 150.62,
+  "total_articles_scraped": 51,
+  "unique_articles": 51,
+  "analyzed_articles": 51,
+  "relevant_articles": 27,
+  "articles": [
+    {
+      "article_id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/123284303.cms",
+      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/123284303.cms",
+      "content_length": 497,
+      "sentiment_score": 0.13125,
+      "sentiment_subjectivity": 0.275,
+      "sentiment_label": "Positive",
+      "positive_sentences": 1,
+      "negative_sentences": 0,
+      "neutral_sentences": 2,
+      "sentence_sentiments": [
+        0.26666666666666666,
+        0.0375,
+        0.1
+      ],
+      "keywords_found": {
+        "positive": [
+          "boost"
+        ],
+        "negative": [
+          "cut"
+        ],
+        "neutral": []
+      },
+      "keyword_density": 0.024390243902439025,
+      "total_investment_keywords": 2,
+      "matched_companies": [
+        {
+          "symbol": "ACC",
+          "company_name": "ACC Limited",
+          "matched_variant": "acc",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ACCELYA",
+          "company_name": "Accelya Solutions India Limited",
+          "matched_variant": "ASI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AHLEAST",
+          "company_name": "Asian Hotels (East) Limited",
+          "matched_variant": "AHE",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 26,
+      "financial_numbers": [],
+      "percentages_mentioned": [],
+      "financial_terms": [],
+      "financial_density": 0.0,
+      "investment_score": 0.35250000000000004,
+      "impact_category": "Positive",
+      "relevance_score": 0.38251250000000003
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-permits-use-of-mutual-funds-for-ias-ras-deposit-compliance/articleshow/123284024.cms",
+      "title": "Sebi permits use of mutual funds for IAs, RAs deposit compliance",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-permits-use-of-mutual-funds-for-ias-ras-deposit-compliance/articleshow/123284024.cms",
+      "content_length": 514,
+      "sentiment_score": 0.15714285714285714,
+      "sentiment_subjectivity": 0.3357142857142857,
+      "sentiment_label": "Positive",
+      "positive_sentences": 1,
+      "negative_sentences": 0,
+      "neutral_sentences": 3,
+      "sentence_sentiments": [
+        0.0,
+        0.0,
+        0.15714285714285714,
+        0.0
+      ],
+      "keywords_found": {
+        "positive": [
+          "investment"
+        ],
+        "negative": [],
+        "neutral": [
+          "meeting",
+          "report"
+        ]
+      },
+      "keyword_density": 0.039473684210526314,
+      "total_investment_keywords": 3,
+      "matched_companies": [
+        {
+          "symbol": "ADANIGREEN",
+          "company_name": "Adani Green Energy Limited",
+          "matched_variant": "AGE",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "BEL",
+          "company_name": "Bharat Electronics Limited",
+          "matched_variant": "BEL",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "CEREBRAINT",
+          "company_name": "Cerebra Integrated Technologies Limited",
+          "matched_variant": "CIT",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "EXCEL",
+          "company_name": "Excel Realty N Infra Limited",
+          "matched_variant": "ERNI",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 19,
+      "financial_numbers": [],
+      "percentages_mentioned": [],
+      "financial_terms": [
+        "investment"
+      ],
+      "financial_density": 0.013157894736842105,
+      "investment_score": 0.3628571428571429,
+      "impact_category": "Highly Positive",
+      "relevance_score": 0.44265939849624064
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/markets/stocks/earnings/senco-gold-q1-profit-doubles-on-festive-demand-showroom-expansion-margin-gains/articleshow/123283664.cms",
+      "title": "Senco Gold Q1 profit doubles on festive demand, showroom expansion, margin gains",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/senco-gold-q1-profit-doubles-on-festive-demand-showroom-expansion-margin-gains/articleshow/123283664.cms",
+      "content_length": 492,
+      "sentiment_score": 0.30833333333333335,
+      "sentiment_subjectivity": 0.5333333333333333,
+      "sentiment_label": "Positive",
+      "positive_sentences": 2,
+      "negative_sentences": 0,
+      "neutral_sentences": 1,
+      "sentence_sentiments": [
+        0.26666666666666666,
+        0.43333333333333335,
+        0.0
+      ],
+      "keywords_found": {
+        "positive": [
+          "profit",
+          "expansion"
+        ],
+        "negative": [],
+        "neutral": []
+      },
+      "keyword_density": 0.024390243902439025,
+      "total_investment_keywords": 2,
+      "matched_companies": [
+        {
+          "symbol": "ACC",
+          "company_name": "ACC Limited",
+          "matched_variant": "acc",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "DEN",
+          "company_name": "Den Networks Limited",
+          "matched_variant": "DEN",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "EASEMYTRIP",
+          "company_name": "Easy Trip Planners Limited",
+          "matched_variant": "ETP",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "EMSLIMITED",
+          "company_name": "EMS Limited",
+          "matched_variant": "ems",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 16,
+      "financial_numbers": [
+        104.6,
+        826.2
+      ],
+      "percentages_mentioned": [
+        30.0
+      ],
+      "financial_terms": [
+        "revenue",
+        "profit"
+      ],
+      "financial_density": 0.024390243902439025,
+      "investment_score": 0.42333333333333334,
+      "impact_category": "Highly Positive",
+      "relevance_score": 0.4299418699186992
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/markets/stocks/earnings/muthoot-finance-q1-profit-jumps-90-on-strong-growth-lower-provisions/articleshow/123283581.cms",
+      "title": "Muthoot Finance Q1 profit jumps 90% on strong growth, lower provisions",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/muthoot-finance-q1-profit-jumps-90-on-strong-growth-lower-provisions/articleshow/123283581.cms",
+      "content_length": 491,
+      "sentiment_score": 0.2777777777777778,
+      "sentiment_subjectivity": 0.4777777777777778,
+      "sentiment_label": "Positive",
+      "positive_sentences": 3,
+      "negative_sentences": 0,
+      "neutral_sentences": 0,
+      "sentence_sentiments": [
+        0.26666666666666666,
+        0.21666666666666667,
+        0.43333333333333335
+      ],
+      "keywords_found": {
+        "positive": [
+          "profit",
+          "growth"
+        ],
+        "negative": [
+          "lower"
+        ],
+        "neutral": []
+      },
+      "keyword_density": 0.03529411764705882,
+      "total_investment_keywords": 3,
+      "matched_companies": [
+        {
+          "symbol": "ACC",
+          "company_name": "ACC Limited",
+          "matched_variant": "acc",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "DEN",
+          "company_name": "Den Networks Limited",
+          "matched_variant": "DEN",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "EASEMYTRIP",
+          "company_name": "Easy Trip Planners Limited",
+          "matched_variant": "ETP",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "EMSLIMITED",
+          "company_name": "EMS Limited",
+          "matched_variant": "ems",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 15,
+      "financial_numbers": [
+        46.0,
+        1.2
+      ],
+      "percentages_mentioned": [
+        90.0,
+        42.0,
+        90.0
+      ],
+      "financial_terms": [
+        "profit",
+        "growth"
+      ],
+      "financial_density": 0.023529411764705882,
+      "investment_score": 0.5111111111111111,
+      "impact_category": "Highly Positive",
+      "relevance_score": 0.47207385620915043
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/markets/stocks/earnings/csb-bank-q1-profit-up-5-despite-nim-fall-provisions-surge/articleshow/123283536.cms",
+      "title": "CSB Bank Q1 profit up 5% despite NIM fall, provisions surge",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/csb-bank-q1-profit-up-5-despite-nim-fall-provisions-surge/articleshow/123283536.cms",
+      "content_length": 455,
+      "sentiment_score": 0.13214285714285715,
+      "sentiment_subjectivity": 0.325,
+      "sentiment_label": "Positive",
+      "positive_sentences": 1,
+      "negative_sentences": 0,
+      "neutral_sentences": 2,
+      "sentence_sentiments": [
+        0.26666666666666666,
+        0.03125,
+        0.0
+      ],
+      "keywords_found": {
+        "positive": [
+          "profit",
+          "surge"
+        ],
+        "negative": [
+          "lower",
+          "fall"
+        ],
+        "neutral": []
+      },
+      "keyword_density": 0.04938271604938271,
+      "total_investment_keywords": 4,
+      "matched_companies": [
+        {
+          "symbol": "ACC",
+          "company_name": "ACC Limited",
+          "matched_variant": "acc",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "COMSYN",
+          "company_name": "Commercial Syn Bags Limited",
+          "matched_variant": "CSB",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "CSBBANK",
+          "company_name": "CSB Bank Limited",
+          "matched_variant": "csb bank",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 19,
+      "financial_numbers": [
+        118.6
+      ],
+      "percentages_mentioned": [
+        5.0,
+        27.0,
+        5.0
+      ],
+      "financial_terms": [
+        "profit"
+      ],
+      "financial_density": 0.012345679012345678,
+      "investment_score": 0.45285714285714285,
+      "impact_category": "Positive",
+      "relevance_score": 0.4803875661375661
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-eternal-tvs-motor-and-3-more-stocks-on-thursday-up-to-16-near-term-upside-seen/slideshow/123283494.cms",
+      "title": "Market Trading Guide: Buy Eternal, TVS Motor and 3 more stocks on Thursday. Up to 16% near term upside seen - Stock Ideas",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-eternal-tvs-motor-and-3-more-stocks-on-thursday-up-to-16-near-term-upside-seen/slideshow/123283494.cms",
+      "content_length": 1210,
+      "sentiment_score": 0.11355218855218856,
+      "sentiment_subjectivity": 0.31456228956228954,
+      "sentiment_label": "Positive",
+      "positive_sentences": 3,
+      "negative_sentences": 0,
+      "neutral_sentences": 9,
+      "sentence_sentiments": [
+        0.17777777777777778,
+        0.0,
+        0.43333333333333335,
+        0.03333333333333333,
+        0.056818181818181816,
+        0.0,
+        0.0,
+        0.075,
+        0.0,
+        0.0,
+        0.5,
+        0.1
+      ],
+      "keywords_found": {
+        "positive": [
+          "recommend",
+          "bull",
+          "momentum",
+          "win",
+          "rally"
+        ],
+        "negative": [
+          "concern",
+          "lower",
+          "bear"
+        ],
+        "neutral": []
+      },
+      "keyword_density": 0.04145077720207254,
+      "total_investment_keywords": 8,
+      "matched_companies": [
+        {
+          "symbol": "ACE",
+          "company_name": "Action Construction Equipment Limited",
+          "matched_variant": "ACE",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ADL",
+          "company_name": "Archidply Decor Limited",
+          "matched_variant": "ADL",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ANURAS",
+          "company_name": "Anupam Rasayan India Limited",
+          "matched_variant": "ARI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ARVEE",
+          "company_name": "Arvee Laboratories (India) Limited",
+          "matched_variant": "ALI",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 39,
+      "financial_numbers": [],
+      "percentages_mentioned": [
+        16.0
+      ],
+      "financial_terms": [],
+      "financial_density": 0.0,
+      "investment_score": 0.4454208754208754,
+      "impact_category": "Highly Positive",
+      "relevance_score": 0.6283880471380471
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/markets/stocks/etmarkets-podcast/et-market-watch-sensex-rises-304-pts-nifty-reclaims-24600-on-fed-cut-hopes-cooling-inflation/podcast/123282812.cms",
+      "title": "ET Market Watch: Sensex rises 304 pts, Nifty reclaims 24,600 on Fed cut hopes, cooling inflation",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/etmarkets-podcast/et-market-watch-sensex-rises-304-pts-nifty-reclaims-24600-on-fed-cut-hopes-cooling-inflation/podcast/123282812.cms",
+      "content_length": 2073,
+      "sentiment_score": 0.18564102564102566,
+      "sentiment_subjectivity": 0.42076923076923084,
+      "sentiment_label": "Positive",
+      "positive_sentences": 8,
+      "negative_sentences": 1,
+      "neutral_sentences": 11,
+      "sentence_sentiments": [
+        0.2,
+        0.5666666666666667,
+        0.5,
+        -0.1,
+        0.0,
+        0.6,
+        0.5,
+        0.35,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.08333333333333334,
+        0.08666666666666667,
+        -0.7,
+        1.0,
+        0.0,
+        0.0,
+        0.5,
+        0.0
+      ],
+      "keywords_found": {
+        "positive": [
+          "profit",
+          "record",
+          "green",
+          "surge",
+          "approval",
+          "boost",
+          "rally"
+        ],
+        "negative": [
+          "weak",
+          "cut",
+          "risk"
+        ],
+        "neutral": [
+          "update"
+        ]
+      },
+      "keyword_density": 0.03206997084548105,
+      "total_investment_keywords": 11,
+      "matched_companies": [
+        {
+          "symbol": "ACCELYA",
+          "company_name": "Accelya Solutions India Limited",
+          "matched_variant": "ASI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ACE",
+          "company_name": "Action Construction Equipment Limited",
+          "matched_variant": "ACE",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ACMESOLAR",
+          "company_name": "Acme Solar Holdings Limited",
+          "matched_variant": "ASH",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ADL",
+          "company_name": "Archidply Decor Limited",
+          "matched_variant": "ADL",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 95,
+      "financial_numbers": [
+        4679.0,
+        65.67
+      ],
+      "percentages_mentioned": [
+        1.1,
+        0.4,
+        1.4,
+        2.3,
+        8.0,
+        5.0,
+        5.0,
+        3.0,
+        0.6,
+        0.7,
+        0.7,
+        0.3
+      ],
+      "financial_terms": [
+        "profit",
+        "earnings"
+      ],
+      "financial_density": 0.0058309037900874635,
+      "investment_score": 0.4742564102564103,
+      "impact_category": "Highly Positive",
+      "relevance_score": 0.6472848919787695
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/markets/stocks/earnings/irctc-q1-results-pat-rises-8-yoy-to-rs-331-crore/articleshow/123282619.cms",
+      "title": "IRCTC Q1 Results: PAT rises 8% YoY to Rs 331 crore",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/irctc-q1-results-pat-rises-8-yoy-to-rs-331-crore/articleshow/123282619.cms",
+      "content_length": 1928,
+      "sentiment_score": 0.06945929887106357,
+      "sentiment_subjectivity": 0.2954248366013072,
+      "sentiment_label": "Neutral",
+      "positive_sentences": 2,
+      "negative_sentences": 0,
+      "neutral_sentences": 6,
+      "sentence_sentiments": [
+        0.03409090909090909,
+        -0.05185185185185185,
+        0.2833333333333333,
+        -0.0625,
+        0.6,
+        -0.0625,
+        0.0,
+        0.0
+      ],
+      "keywords_found": {
+        "positive": [
+          "profit",
+          "growth"
+        ],
+        "negative": [
+          "lower",
+          "decline"
+        ],
+        "neutral": [
+          "report",
+          "results"
+        ]
+      },
+      "keyword_density": 0.018072289156626505,
+      "total_investment_keywords": 6,
+      "matched_companies": [
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "DCI",
+          "company_name": "Dc Infotech And Communication Limited",
+          "matched_variant": "DIA",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "EXICOM",
+          "company_name": "Exicom Tele-Systems Limited",
+          "matched_variant": "ETS",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "GOLDTECH",
+          "company_name": "AION-TECH SOLUTIONS LIMITED",
+          "matched_variant": "ATS",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "KABRAEXTRU",
+          "company_name": "Kabra Extrusion Technik Limited",
+          "matched_variant": "KET",
+          "confidence": 0.5
+        }
+      ],
+      "company_count": 29,
+      "financial_numbers": [
+        331.0,
+        308.0,
+        358.0,
+        160.0,
+        117.0,
+        268.53,
+        546.78,
+        558.89,
+        358.75,
+        329.07,
+        110.49,
+        111.47,
+        147.69,
+        122.32,
+        301.89,
+        272.33,
+        71.74,
+        77.92,
+        15.4,
+        13.58,
+        12.86,
+        9.33,
+        778.73,
+        759.36,
+        75.74,
+        41.48,
+        61.19,
+        51.42,
+        331.0,
+        331.0
+      ],
+      "percentages_mentioned": [
+        8.0,
+        3.0,
+        8.0,
+        8.0
+      ],
+      "financial_terms": [
+        "revenue",
+        "profit",
+        "growth"
+      ],
+      "financial_density": 0.009036144578313253,
+      "investment_score": 0.4277837195484254,
+      "impact_category": "Positive",
+      "relevance_score": 0.6187202464045128
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/markets/stocks/news/sp-500-nasdaq-hit-record-highs-at-open-on-september-rate-cut-hopes/articleshow/123282599.cms",
+      "title": "S&P 500, Nasdaq hit record highs on September rate cut hopes",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sp-500-nasdaq-hit-record-highs-at-open-on-september-rate-cut-hopes/articleshow/123282599.cms",
+      "content_length": 764,
+      "sentiment_score": 0.18541666666666667,
+      "sentiment_subjectivity": 0.4020833333333333,
+      "sentiment_label": "Positive",
+      "positive_sentences": 4,
+      "negative_sentences": 0,
+      "neutral_sentences": 3,
+      "sentence_sentiments": [
+        0.6,
+        0.05,
+        0.13749999999999998,
+        0.6,
+        0.05,
+        0.13749999999999998,
+        0.0
+      ],
+      "keywords_found": {
+        "positive": [
+          "surge",
+          "record",
+          "win"
+        ],
+        "negative": [
+          "cut"
+        ],
+        "neutral": []
+      },
+      "keyword_density": 0.03389830508474576,
+      "total_investment_keywords": 4,
+      "matched_companies": [
+        {
+          "symbol": "ACC",
+          "company_name": "ACC Limited",
+          "matched_variant": "acc",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ACCELYA",
+          "company_name": "Accelya Solutions India Limited",
+          "matched_variant": "ASI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ADANIGREEN",
+          "company_name": "Adani Green Energy Limited",
+          "matched_variant": "AGE",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 28,
+      "financial_numbers": [],
+      "percentages_mentioned": [],
+      "financial_terms": [
+        "roa"
+      ],
+      "financial_density": 0.00847457627118644,
+      "investment_score": 0.4741666666666666,
+      "impact_category": "Highly Positive",
+      "relevance_score": 0.5240253531073447
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/markets/stocks/news/from-ipo-highs-to-earnings-lows-how-india-is-reworking-oil-imports-under-us-pressure-two-sharp/videoshow/123282366.cms",
+      "title": "From IPO highs to earnings lows & how India is reworking oil imports under US pressure | Two Sharp",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/from-ipo-highs-to-earnings-lows-how-india-is-reworking-oil-imports-under-us-pressure-two-sharp/videoshow/123282366.cms",
+      "content_length": 417,
+      "sentiment_score": -0.0685185185185185,
+      "sentiment_subjectivity": 0.3407407407407408,
+      "sentiment_label": "Neutral",
+      "positive_sentences": 0,
+      "negative_sentences": 1,
+      "neutral_sentences": 2,
+      "sentence_sentiments": [
+        -0.0625,
+        -0.175,
+        0.06944444444444446
+      ],
+      "keywords_found": {
+        "positive": [
+          "record",
+          "ipo",
+          "win"
+        ],
+        "negative": [],
+        "neutral": []
+      },
+      "keyword_density": 0.04225352112676056,
+      "total_investment_keywords": 3,
+      "matched_companies": [
+        {
+          "symbol": "ACCELYA",
+          "company_name": "Accelya Solutions India Limited",
+          "matched_variant": "ASI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ACEINTEG",
+          "company_name": "Ace Integrated Solutions Limited",
+          "matched_variant": "AIS",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGROPHOS",
+          "company_name": "Agro Phos India Limited",
+          "matched_variant": "API",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AKI",
+          "company_name": "AKI India Limited",
+          "matched_variant": "AKI",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 19,
+      "financial_numbers": [
+        14.6,
+        14.6
+      ],
+      "percentages_mentioned": [],
+      "financial_terms": [
+        "earnings"
+      ],
+      "financial_density": 0.014084507042253521,
+      "investment_score": 0.42740740740740735,
+      "impact_category": "Neutral",
+      "relevance_score": 0.41094230568596773
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/markets/stocks/earnings/jubilant-foodworks-q1-results-dominos-india-operator-beats-st-view-with-rs-91-76-crore-profit-on-strong-delivery-demand/articleshow/123281190.cms",
+      "title": "Jubilant Foodworks Q1 Results: Domino's India operator beats St view with Rs 91.76 crore profit on strong delivery demand",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/jubilant-foodworks-q1-results-dominos-india-operator-beats-st-view-with-rs-91-76-crore-profit-on-strong-delivery-demand/articleshow/123281190.cms",
+      "content_length": 583,
+      "sentiment_score": 0.2011904761904762,
+      "sentiment_subjectivity": 0.5297619047619048,
+      "sentiment_label": "Positive",
+      "positive_sentences": 2,
+      "negative_sentences": 0,
+      "neutral_sentences": 1,
+      "sentence_sentiments": [
+        0.26666666666666666,
+        0.05833333333333335,
+        0.43333333333333335
+      ],
+      "keywords_found": {
+        "positive": [
+          "profit"
+        ],
+        "negative": [
+          "struggle",
+          "lower"
+        ],
+        "neutral": [
+          "results"
+        ]
+      },
+      "keyword_density": 0.044444444444444446,
+      "total_investment_keywords": 4,
+      "matched_companies": [
+        {
+          "symbol": "ACC",
+          "company_name": "ACC Limited",
+          "matched_variant": "acc",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "BIL",
+          "company_name": "Bhartiya International Limited",
+          "matched_variant": "BIL",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "DCI",
+          "company_name": "Dc Infotech And Communication Limited",
+          "matched_variant": "DIA",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "DEN",
+          "company_name": "Den Networks Limited",
+          "matched_variant": "DEN",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 19,
+      "financial_numbers": [
+        91.76
+      ],
+      "percentages_mentioned": [],
+      "financial_terms": [
+        "profit"
+      ],
+      "financial_density": 0.011111111111111112,
+      "investment_score": 0.4804761904761905,
+      "impact_category": "Positive",
+      "relevance_score": 0.5102642857142857
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/markets/stocks/earnings/muthoot-finance-q1-results-profit-surges-90-to-rs-2046-crore-on-strong-loan-growth/articleshow/123280683.cms",
+      "title": "Muthoot Finance Q1 Results: Standalone profit surges 90% to Rs 2,046 crore on strong loan growth",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/muthoot-finance-q1-results-profit-surges-90-to-rs-2046-crore-on-strong-loan-growth/articleshow/123280683.cms",
+      "content_length": 776,
+      "sentiment_score": 0.3257575757575758,
+      "sentiment_subjectivity": 0.6318181818181818,
+      "sentiment_label": "Positive",
+      "positive_sentences": 7,
+      "negative_sentences": 0,
+      "neutral_sentences": 4,
+      "sentence_sentiments": [
+        0.3125,
+        0.0,
+        0.25,
+        0.35,
+        0.0,
+        0.3125,
+        0.0,
+        0.25,
+        0.35,
+        0.0,
+        0.43333333333333335
+      ],
+      "keywords_found": {
+        "positive": [
+          "profit",
+          "growth",
+          "surge"
+        ],
+        "negative": [],
+        "neutral": [
+          "results"
+        ]
+      },
+      "keyword_density": 0.03361344537815126,
+      "total_investment_keywords": 4,
+      "matched_companies": [
+        {
+          "symbol": "ADANIGREEN",
+          "company_name": "Adani Green Energy Limited",
+          "matched_variant": "AGE",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "ANURAS",
+          "company_name": "Anupam Rasayan India Limited",
+          "matched_variant": "ARI",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "ARIES",
+          "company_name": "Aries Agro Limited",
+          "matched_variant": "ARIES",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "AWFIS",
+          "company_name": "Awfis Space Solutions Limited",
+          "matched_variant": "ASS",
+          "confidence": 0.5
+        }
+      ],
+      "company_count": 20,
+      "financial_numbers": [
+        46.0
+      ],
+      "percentages_mentioned": [
+        90.0,
+        90.0,
+        90.0
+      ],
+      "financial_terms": [
+        "profit",
+        "assets",
+        "growth"
+      ],
+      "financial_density": 0.025210084033613446,
+      "investment_score": 0.5303030303030303,
+      "impact_category": "Highly Positive",
+      "relevance_score": 0.5628209065444361
+    },
+    {
+      "article_id": "https://www.livemint.com/market/sebi-stock-brokers-regulations-draft-regulations-capital-markets-indian-stock-market-qsb-mutual-fund-transactions-11755100536626.html",
+      "error": "can't subtract offset-naive and offset-aware datetimes",
+      "title": "Sebi drafts rewrite of 30-year-old broker rules for a tech-first market",
+      "source": "Mint"
+    },
+    {
+      "article_id": "https://www.livemint.com/market/stock-market-news/rakuten-bank-to-refrain-from-jgb-buying-as-more-rate-hikes-seen-11755099048082.html",
+      "error": "can't subtract offset-naive and offset-aware datetimes",
+      "title": "Rakuten Bank to Refrain From JGB Buying as More Rate Hikes Seen",
+      "source": "Mint"
+    },
+    {
+      "article_id": "https://www.livemint.com/market/stock-market-news/nifty-it-is-2025-s-worst-performing-sector-down-20-seven-index-stocks-plunge-20-35-from-recent-peaks-11755093564309.html",
+      "error": "can't subtract offset-naive and offset-aware datetimes",
+      "title": "Nifty IT is 2025’s worst-performing sector, down 20%; seven index stocks plunge 20–35% from recent peaks",
+      "source": "Mint"
+    },
+    {
+      "article_id": "https://www.livemint.com/market/cryptocurrency/bullish-62-percent-open-jump-above-ipo-price-on-debut-billionaire-peter-thiel-backed-crypto-exchange-markets-us-news-11755096262522.html",
+      "error": "can't subtract offset-naive and offset-aware datetimes",
+      "title": "Peter Thiel-backed crypto exchange Bullish indicates 62% rise above IPO price on debut, takes valuation to $8.77 billion",
+      "source": "Mint"
+    },
+    {
+      "article_id": "https://www.livemint.com/market/stock-market-news/wall-street-today-s-p-500-nasdaq-hit-record-high-on-fed-rate-cut-optimism-11755093087355.html",
+      "error": "can't subtract offset-naive and offset-aware datetimes",
+      "title": "Wall Street today: S&P 500, Nasdaq hit record high on Fed rate cut optimism",
+      "source": "Mint"
+    },
+    {
+      "article_id": "https://www.livemint.com/market/stock-market-news/eternal-share-price-jumps-over-55-in-under-5-months-as-rally-sustains-post-q1-analysts-see-it-hitting-rs-362-11755090286568.html",
+      "error": "can't subtract offset-naive and offset-aware datetimes",
+      "title": "Eternal share price jumps over 55% in under 5 months as rally sustains post Q1; analysts see it hitting ₹362",
+      "source": "Mint"
+    },
+    {
+      "article_id": "https://www.livemint.com/market/stock-market-news/sebi-to-define-algo-trading-revamp-stock-brokers-rules-11755087088848.html",
+      "error": "can't subtract offset-naive and offset-aware datetimes",
+      "title": "Sebi to define algo trading, revamp stock brokers rules",
+      "source": "Mint"
+    },
+    {
+      "article_id": "https://www.livemint.com/market/ipo/bluestone-jewellery-ipo-issue-booked-nearly-3x-by-third-day-check-gmp-and-other-details-11755086153623.html",
+      "error": "can't subtract offset-naive and offset-aware datetimes",
+      "title": "BlueStone Jewellery IPO: Issue booked nearly 3x by third day. Check GMP and other details",
+      "source": "Mint"
+    },
+    {
+      "article_id": "https://www.livemint.com/market/stock-market-news/praj-industries-stock-faces-worst-year-since-2008-down-over-50-in-2025-time-to-exit-11755076410258.html",
+      "error": "can't subtract offset-naive and offset-aware datetimes",
+      "title": "Multibagger ethanol stock faces worst year since 2008, down over 50% in 2025. Time to exit?",
+      "source": "Mint"
+    },
+    {
+      "article_id": "https://www.livemint.com/market/bonds/investing-in-bonds-a-low-key-asset-class-with-steady-growth-potential-11755084567836.html",
+      "error": "can't subtract offset-naive and offset-aware datetimes",
+      "title": "Investing in bonds — A low-key asset class with steady growth potential",
+      "source": "Mint"
+    },
+    {
+      "article_id": "https://www.livemint.com/market/bonds/what-are-bonds-and-how-do-they-provide-stable-returns-for-retail-investors-everything-you-need-to-know-11755072171771.html",
+      "error": "can't subtract offset-naive and offset-aware datetimes",
+      "title": "What are bonds and how do they provide stable returns for retail investors? — Everything you need to know",
+      "source": "Mint"
+    },
+    {
+      "article_id": "https://www.livemint.com/market/ipo/medistep-healthcare-ipo-allotment-to-be-out-soon-here-are-steps-to-check-status-online-gmp-as-focus-shifts-to-listing-11755079033557.html",
+      "error": "can't subtract offset-naive and offset-aware datetimes",
+      "title": "Medistep Healthcare IPO allotment to be out soon: Here are steps to check status online, GMP as focus shifts to listing",
+      "source": "Mint"
+    },
+    {
+      "article_id": "https://www.livemint.com/companies/news/aditya-birla-s-tmrw-raises-437-crore-from-servicenow-arm-to-boost-tech-platform-11755101421296.html",
+      "error": "can't subtract offset-naive and offset-aware datetimes",
+      "title": "Aditya Birla firm for young fashion TMRW raises ₹437 cr for tech boost",
+      "source": "Mint"
+    },
+    {
+      "article_id": "https://www.livemint.com/companies/news/us-chip-gear-maker-sued-in-china-over-alleged-trade-secret-theft-11755099900876.html",
+      "error": "can't subtract offset-naive and offset-aware datetimes",
+      "title": "US Chip-Gear Maker Sued in China Over Alleged Trade Secret Theft",
+      "source": "Mint"
+    },
+    {
+      "article_id": "https://www.livemint.com/companies/news/bessent-sees-nvidia-amd-china-agreements-as-a-model-for-others-11755099170389.html",
+      "error": "can't subtract offset-naive and offset-aware datetimes",
+      "title": "Bessent Sees Nvidia, AMD China Agreements as a Model for Others",
+      "source": "Mint"
+    },
+    {
+      "article_id": "https://www.livemint.com/companies/company-results/united-spirits-q1-profit-slips-14-pc-to-rs-417-cr-revenue-at-rs-6-295-cr-11755097825940.html",
+      "error": "can't subtract offset-naive and offset-aware datetimes",
+      "title": "United Spirits Q1 profit slips 14 pc to ₹417 cr; revenue at ₹6,295 cr",
+      "source": "Mint"
+    },
+    {
+      "article_id": "https://www.livemint.com/companies/news/toxic-spill-at-china-owned-zambian-mine-30-times-worse-than-estimated-11755095504100.html",
+      "error": "can't subtract offset-naive and offset-aware datetimes",
+      "title": "Toxic Spill at China-Owned Zambian Mine 30 Times Worse Than Estimated",
+      "source": "Mint"
+    },
+    {
+      "article_id": "https://www.livemint.com/companies/news/ola-electric-bhavish-aggarwal-tease-new-ai-software-two-wheeler-enter-sports-segment-independence-day-2025-sankalp-watch-11755086559691.html",
+      "error": "can't subtract offset-naive and offset-aware datetimes",
+      "title": "Ola Electric teases new software for two-wheelers, sports segment entry this I-Day: What you need to know",
+      "source": "Mint"
+    },
+    {
+      "article_id": "https://www.livemint.com/companies/people/dont-fret-about-warren-buffett-berkshire-stock-is-still-a-buy-11755093144542.html",
+      "error": "can't subtract offset-naive and offset-aware datetimes",
+      "title": "Don’t fret about Warren Buffett. Berkshire stock is still a buy.",
+      "source": "Mint"
+    },
+    {
+      "article_id": "https://www.livemint.com/companies/news/stakeholder-consultation-by-fssai-charts-roadmap-for-transparent-responsible-food-labelling-in-india-11755092218665.html",
+      "error": "can't subtract offset-naive and offset-aware datetimes",
+      "title": "Stakeholder consultation by FSSAI charts roadmap for transparent, responsible food labelling in India",
+      "source": "Mint"
+    },
+    {
+      "article_id": "https://www.livemint.com/companies/news/swiss-face-higher-fighter-jet-cost-as-us-squeezes-government-11755092087627.html",
+      "error": "can't subtract offset-naive and offset-aware datetimes",
+      "title": "Swiss Face Higher Fighter-Jet Cost as US Squeezes Government",
+      "source": "Mint"
+    },
+    {
+      "article_id": "https://www.livemint.com/companies/news/ibbi-proposes-cap-on-assignments-for-insolvency-professionals-to-curb-delays-11755090497968.html",
+      "error": "can't subtract offset-naive and offset-aware datetimes",
+      "title": "IBBI proposes cap on assignments for insolvency professionals to curb delays",
+      "source": "Mint"
+    },
+    {
+      "article_id": "https://www.livemint.com/companies/news/mahindra-ceo-anish-shah-india-manufacturing-ev-auto-hub-for-world-believes-india-uk-fta-opens-up-export-market-facility-11755086482625.html",
+      "error": "can't subtract offset-naive and offset-aware datetimes",
+      "title": "‘India can be auto manufacturing hub for world’, believes Mahindra CEO, says FTA opens up UK export market for EVs",
+      "source": "Mint"
+    },
+    {
+      "article_id": "https://www.livemint.com/companies/news/mounjaro-pen-launch-eli-lilly-weight-loss-drugs-india-novo-nordisk-wegovy-11755081422304.html",
+      "error": "can't subtract offset-naive and offset-aware datetimes",
+      "title": "Eli Lilly launches Mounjaro pen in India as obesity drug race heats up",
+      "source": "Mint"
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/20-microns-ltd/stocks/companyid-22472.cms",
+      "title": "20 Microns Share Price Today, 20 Microns Stock Price Live NSE",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/20-microns-ltd/stocks/companyid-22472.cms",
+      "content_length": 5021,
+      "sentiment_score": 0.04213846801346801,
+      "sentiment_subjectivity": 0.299787037037037,
+      "sentiment_label": "Neutral",
+      "positive_sentences": 6,
+      "negative_sentences": 5,
+      "neutral_sentences": 30,
+      "sentence_sentiments": [
+        -0.25,
+        0.0,
+        0.3333333333333333,
+        0.0,
+        0.0,
+        -0.13333333333333333,
+        0.5,
+        0.0,
+        -0.0625,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.25,
+        0.25,
+        0.0,
+        -0.1125,
+        0.0,
+        -0.15,
+        -0.07777777777777778,
+        0.0,
+        0.0,
+        0.16,
+        0.0,
+        0.0,
+        -0.125,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.08333333333333333,
+        0.0625,
+        0.0,
+        0.0,
+        0.0,
+        0.06923076923076922,
+        0.3181818181818182
+      ],
+      "keywords_found": {
+        "positive": [
+          "dividend",
+          "profit",
+          "target price",
+          "win",
+          "export"
+        ],
+        "negative": [
+          "cut"
+        ],
+        "neutral": [
+          "quarterly",
+          "report",
+          "forecast"
+        ]
+      },
+      "keyword_density": 0.010650887573964497,
+      "total_investment_keywords": 9,
+      "matched_companies": [
+        {
+          "symbol": "AFFORDABLE",
+          "company_name": "Affordable Robotic & Automation Limited",
+          "matched_variant": "ARA",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "DEVIT",
+          "company_name": "Dev Information Technology Limited",
+          "matched_variant": "DIT",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "INDOTHAI",
+          "company_name": "Indo Thai Securities Limited",
+          "matched_variant": "ITS",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "INTELLECT",
+          "company_name": "Intellect Design Arena Limited",
+          "matched_variant": "IDA",
+          "confidence": 0.5
+        }
+      ],
+      "company_count": 74,
+      "financial_numbers": [
+        811.66,
+        248.26,
+        227.64,
+        232.39,
+        17.11,
+        3.53,
+        248.26
+      ],
+      "percentages_mentioned": [
+        9.06,
+        6.83,
+        45.04,
+        0.0,
+        0.88,
+        0.84,
+        0.04,
+        0.15,
+        0.15,
+        0.0,
+        0.0,
+        53.93,
+        0.54,
+        9.06,
+        14.52,
+        15.88,
+        14.24,
+        13.75,
+        10.71,
+        118.44,
+        38.36,
+        25.0,
+        0.54,
+        6.88,
+        4.65,
+        0.0,
+        2.45
+      ],
+      "financial_terms": [
+        "revenue",
+        "profit",
+        "earnings",
+        "dividend",
+        "market cap",
+        "equity",
+        "roe",
+        "pe ratio",
+        "eps",
+        "sales"
+      ],
+      "financial_density": 0.011834319526627219,
+      "investment_score": 0.4168553872053872,
+      "impact_category": "Neutral",
+      "relevance_score": 0.6123097649323611
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/20-microns-ltd/stocksupdate/companyid-22472.cms",
+      "title": "20 Microns Announcement, Latest News on 20 Microns",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/20-microns-ltd/stocksupdate/companyid-22472.cms",
+      "content_length": 494,
+      "sentiment_score": 0.11666666666666665,
+      "sentiment_subjectivity": 0.20000000000000004,
+      "sentiment_label": "Positive",
+      "positive_sentences": 2,
+      "negative_sentences": 0,
+      "neutral_sentences": 3,
+      "sentence_sentiments": [
+        0.0,
+        0.2,
+        0.0,
+        0.0,
+        0.5
+      ],
+      "keywords_found": {
+        "positive": [
+          "license"
+        ],
+        "negative": [],
+        "neutral": [
+          "announcement"
+        ]
+      },
+      "keyword_density": 0.025,
+      "total_investment_keywords": 2,
+      "matched_companies": [
+        {
+          "symbol": "20MICRONS",
+          "company_name": "20 Microns Limited",
+          "matched_variant": "20 microns",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ANKITMETAL",
+          "company_name": "Ankit Metal & Power Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ASTRAMICRO",
+          "company_name": "Astra Microwave Products Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 19,
+      "financial_numbers": [],
+      "percentages_mentioned": [],
+      "financial_terms": [],
+      "financial_density": 0.0,
+      "investment_score": 0.2966666666666667,
+      "impact_category": "Highly Positive",
+      "relevance_score": 0.3785666666666667
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/20-microns-ltd/infocompanymanagement/companyid-22472.cms",
+      "title": "20 Microns Management Information",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/20-microns-ltd/infocompanymanagement/companyid-22472.cms",
+      "content_length": 477,
+      "sentiment_score": 0.04,
+      "sentiment_subjectivity": 0.06000000000000001,
+      "sentiment_label": "Neutral",
+      "positive_sentences": 1,
+      "negative_sentences": 0,
+      "neutral_sentences": 4,
+      "sentence_sentiments": [
+        0.0,
+        0.2,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "keywords_found": {
+        "positive": [
+          "license"
+        ],
+        "negative": [],
+        "neutral": []
+      },
+      "keyword_density": 0.013157894736842105,
+      "total_investment_keywords": 1,
+      "matched_companies": [
+        {
+          "symbol": "20MICRONS",
+          "company_name": "20 Microns Limited",
+          "matched_variant": "20 microns",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ADANIGREEN",
+          "company_name": "Adani Green Energy Limited",
+          "matched_variant": "AGE",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ANKITMETAL",
+          "company_name": "Ankit Metal & Power Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 19,
+      "financial_numbers": [],
+      "percentages_mentioned": [],
+      "financial_terms": [],
+      "financial_density": 0.0,
+      "investment_score": 0.21600000000000003,
+      "impact_category": "Neutral",
+      "relevance_score": 0.30770000000000003
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/20-microns-ltd/quotecompare/companyid-22472.cms",
+      "title": "20 Microns Competitors List",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/20-microns-ltd/quotecompare/companyid-22472.cms",
+      "content_length": 471,
+      "sentiment_score": 0.04,
+      "sentiment_subjectivity": 0.06000000000000001,
+      "sentiment_label": "Neutral",
+      "positive_sentences": 1,
+      "negative_sentences": 0,
+      "neutral_sentences": 4,
+      "sentence_sentiments": [
+        0.0,
+        0.2,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "keywords_found": {
+        "positive": [
+          "license"
+        ],
+        "negative": [],
+        "neutral": []
+      },
+      "keyword_density": 0.013157894736842105,
+      "total_investment_keywords": 1,
+      "matched_companies": [
+        {
+          "symbol": "20MICRONS",
+          "company_name": "20 Microns Limited",
+          "matched_variant": "20 microns",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ANKITMETAL",
+          "company_name": "Ankit Metal & Power Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ASTRAMICRO",
+          "company_name": "Astra Microwave Products Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 19,
+      "financial_numbers": [],
+      "percentages_mentioned": [],
+      "financial_terms": [],
+      "financial_density": 0.0,
+      "investment_score": 0.21600000000000003,
+      "impact_category": "Neutral",
+      "relevance_score": 0.30710000000000004
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/markets/technical-charts?symbol=20MICRONSEQ&exchange=NSE&entity=company&periodicity=15",
+      "title": "20 Microns Ltd. Technical Chart NSE Stock Analysis, 20 Microns Ltd. Technical Chart Analysis",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/markets/technical-charts?symbol=20MICRONSEQ&exchange=NSE&entity=company&periodicity=15",
+      "content_length": 3323,
+      "sentiment_score": 0.15337974172719937,
+      "sentiment_subjectivity": 0.42678571428571443,
+      "sentiment_label": "Positive",
+      "positive_sentences": 11,
+      "negative_sentences": 0,
+      "neutral_sentences": 5,
+      "sentence_sentiments": [
+        0.8,
+        0.16666666666666666,
+        0.0,
+        0.19999999999999998,
+        0.5,
+        0.25,
+        -0.09999999999999999,
+        0.16,
+        0.5,
+        0.0,
+        0.3,
+        0.06397058823529411,
+        0.20714285714285716,
+        0.2,
+        0.19999999999999998,
+        -0.03333333333333333
+      ],
+      "keywords_found": {
+        "positive": [
+          "contract",
+          "profit",
+          "bull",
+          "investment",
+          "momentum"
+        ],
+        "negative": [
+          "risk",
+          "fall",
+          "drop",
+          "decline",
+          "fine",
+          "cut",
+          "bear"
+        ],
+        "neutral": []
+      },
+      "keyword_density": 0.022727272727272728,
+      "total_investment_keywords": 12,
+      "matched_companies": [
+        {
+          "symbol": "BUTTERFLY",
+          "company_name": "Butterfly Gandhimathi Appliances Limited",
+          "matched_variant": "BUTTERFLY",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "IGARASHI",
+          "company_name": "Igarashi Motors India Limited",
+          "matched_variant": "IMI",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "INDIACEM",
+          "company_name": "The India Cements Limited",
+          "matched_variant": "TIC",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "LUMAXTECH",
+          "company_name": "Lumax Auto Technologies Limited",
+          "matched_variant": "LAT",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "OMKARCHEM",
+          "company_name": "Omkar Speciality Chemicals Limited",
+          "matched_variant": "OSC",
+          "confidence": 0.5
+        }
+      ],
+      "company_count": 65,
+      "financial_numbers": [],
+      "percentages_mentioned": [],
+      "financial_terms": [
+        "profit",
+        "investment",
+        "roa"
+      ],
+      "financial_density": 0.005681818181818182,
+      "investment_score": 0.4613518966908797,
+      "impact_category": "Positive",
+      "relevance_score": 0.6391972081590725
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/twentyfirst-century-management-services-ltd/stocks/companyid-8108.cms",
+      "title": "Twentyfirst Cent Share Price Today, Twentyfirst Cent Stock Price Live NSE",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/twentyfirst-century-management-services-ltd/stocks/companyid-8108.cms",
+      "content_length": 803,
+      "sentiment_score": -0.0993939393939394,
+      "sentiment_subjectivity": 0.3066666666666667,
+      "sentiment_label": "Neutral",
+      "positive_sentences": 1,
+      "negative_sentences": 2,
+      "neutral_sentences": 7,
+      "sentence_sentiments": [
+        0.0,
+        0.0,
+        -0.16666666666666666,
+        0.0,
+        0.0,
+        0.0,
+        -0.15555555555555556,
+        0.0,
+        0.0,
+        0.13636363636363635
+      ],
+      "keywords_found": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "keyword_density": 0.0,
+      "total_investment_keywords": 0,
+      "matched_companies": [
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGROPHOS",
+          "company_name": "Agro Phos India Limited",
+          "matched_variant": "API",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ANSALAPI",
+          "company_name": "Ansal Properties & Infrastructure Limited",
+          "matched_variant": "API",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ARVEE",
+          "company_name": "Arvee Laboratories (India) Limited",
+          "matched_variant": "ALI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ASTRAZEN",
+          "company_name": "AstraZeneca Pharma India Limited",
+          "matched_variant": "API",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 11,
+      "financial_numbers": [
+        59.8
+      ],
+      "percentages_mentioned": [
+        0.61,
+        0.38,
+        16.34,
+        23.6
+      ],
+      "financial_terms": [
+        "market cap",
+        "pe ratio"
+      ],
+      "financial_density": 0.014285714285714285,
+      "investment_score": 0.13975757575757577,
+      "impact_category": "Neutral",
+      "relevance_score": 0.307291341991342
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/twentyfirst-century-management-services-ltd/infocompanymanagement/companyid-8108.cms",
+      "title": "Twentyfirst Century Management Services Management Information",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/twentyfirst-century-management-services-ltd/infocompanymanagement/companyid-8108.cms",
+      "content_length": 506,
+      "sentiment_score": 0.04,
+      "sentiment_subjectivity": 0.06000000000000001,
+      "sentiment_label": "Neutral",
+      "positive_sentences": 1,
+      "negative_sentences": 0,
+      "neutral_sentences": 4,
+      "sentence_sentiments": [
+        0.0,
+        0.2,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "keywords_found": {
+        "positive": [
+          "license"
+        ],
+        "negative": [],
+        "neutral": []
+      },
+      "keyword_density": 0.01282051282051282,
+      "total_investment_keywords": 1,
+      "matched_companies": [
+        {
+          "symbol": "ADANIGREEN",
+          "company_name": "Adani Green Energy Limited",
+          "matched_variant": "AGE",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ANKITMETAL",
+          "company_name": "Ankit Metal & Power Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ASTRAMICRO",
+          "company_name": "Astra Microwave Products Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 19,
+      "financial_numbers": [],
+      "percentages_mentioned": [],
+      "financial_terms": [],
+      "financial_density": 0.0,
+      "investment_score": 0.21600000000000003,
+      "impact_category": "Neutral",
+      "relevance_score": 0.3106
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/twentyfirst-century-management-services-ltd/stocksupdate/companyid-8108.cms",
+      "title": "Twentyfirst Century Management Services Announcement, Latest News on Twentyfirst Century Management Services",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/twentyfirst-century-management-services-ltd/stocksupdate/companyid-8108.cms",
+      "content_length": 552,
+      "sentiment_score": 0.11666666666666665,
+      "sentiment_subjectivity": 0.20000000000000004,
+      "sentiment_label": "Positive",
+      "positive_sentences": 2,
+      "negative_sentences": 0,
+      "neutral_sentences": 3,
+      "sentence_sentiments": [
+        0.0,
+        0.2,
+        0.0,
+        0.0,
+        0.5
+      ],
+      "keywords_found": {
+        "positive": [
+          "license"
+        ],
+        "negative": [],
+        "neutral": [
+          "announcement"
+        ]
+      },
+      "keyword_density": 0.023809523809523808,
+      "total_investment_keywords": 2,
+      "matched_companies": [
+        {
+          "symbol": "ADANIGREEN",
+          "company_name": "Adani Green Energy Limited",
+          "matched_variant": "AGE",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ANKITMETAL",
+          "company_name": "Ankit Metal & Power Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ASTRAMICRO",
+          "company_name": "Astra Microwave Products Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 20,
+      "financial_numbers": [],
+      "percentages_mentioned": [],
+      "financial_terms": [],
+      "financial_density": 0.0,
+      "investment_score": 0.2966666666666667,
+      "impact_category": "Highly Positive",
+      "relevance_score": 0.38436666666666675
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/twentyfirst-century-management-services-ltd/quarterly/companyid-8108.cms",
+      "title": "Twentyfirst Century Management Services Quarterly Results, Financial Summary & Previous Quarter Results",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/twentyfirst-century-management-services-ltd/quarterly/companyid-8108.cms",
+      "content_length": 547,
+      "sentiment_score": 0.004761904761904765,
+      "sentiment_subjectivity": 0.06666666666666667,
+      "sentiment_label": "Neutral",
+      "positive_sentences": 1,
+      "negative_sentences": 0,
+      "neutral_sentences": 4,
+      "sentence_sentiments": [
+        0.0,
+        0.2,
+        0.0,
+        0.0,
+        -0.08333333333333333
+      ],
+      "keywords_found": {
+        "positive": [
+          "license"
+        ],
+        "negative": [],
+        "neutral": [
+          "quarterly",
+          "results"
+        ]
+      },
+      "keyword_density": 0.03571428571428571,
+      "total_investment_keywords": 3,
+      "matched_companies": [
+        {
+          "symbol": "ADANIGREEN",
+          "company_name": "Adani Green Energy Limited",
+          "matched_variant": "AGE",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ANKITMETAL",
+          "company_name": "Ankit Metal & Power Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ASTRAMICRO",
+          "company_name": "Astra Microwave Products Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 20,
+      "financial_numbers": [],
+      "percentages_mentioned": [],
+      "financial_terms": [],
+      "financial_density": 0.0,
+      "investment_score": 0.3019047619047619,
+      "impact_category": "Neutral",
+      "relevance_score": 0.40589047619047625
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/twentyfirst-century-management-services-ltd/quotecompare/companyid-8108.cms",
+      "title": "Twentyfirst Century Management Services Competitors List",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/twentyfirst-century-management-services-ltd/quotecompare/companyid-8108.cms",
+      "content_length": 500,
+      "sentiment_score": 0.04,
+      "sentiment_subjectivity": 0.06000000000000001,
+      "sentiment_label": "Neutral",
+      "positive_sentences": 1,
+      "negative_sentences": 0,
+      "neutral_sentences": 4,
+      "sentence_sentiments": [
+        0.0,
+        0.2,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "keywords_found": {
+        "positive": [
+          "license"
+        ],
+        "negative": [],
+        "neutral": []
+      },
+      "keyword_density": 0.01282051282051282,
+      "total_investment_keywords": 1,
+      "matched_companies": [
+        {
+          "symbol": "ADANIGREEN",
+          "company_name": "Adani Green Energy Limited",
+          "matched_variant": "AGE",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ANKITMETAL",
+          "company_name": "Ankit Metal & Power Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ASTRAMICRO",
+          "company_name": "Astra Microwave Products Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 20,
+      "financial_numbers": [],
+      "percentages_mentioned": [],
+      "financial_terms": [],
+      "financial_density": 0.0,
+      "investment_score": 0.21600000000000003,
+      "impact_category": "Neutral",
+      "relevance_score": 0.31
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/360-one-wam-ltd/stocks/companyid-22217.cms",
+      "title": "360 One Wam Share Price Today, 360 One Wam Stock Price Live NSE",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/360-one-wam-ltd/stocks/companyid-22217.cms",
+      "content_length": 5324,
+      "sentiment_score": 0.04380513468013468,
+      "sentiment_subjectivity": 0.277287037037037,
+      "sentiment_label": "Neutral",
+      "positive_sentences": 6,
+      "negative_sentences": 3,
+      "neutral_sentences": 32,
+      "sentence_sentiments": [
+        0.0,
+        0.0,
+        0.3333333333333333,
+        0.0,
+        0.0,
+        -0.13333333333333333,
+        0.5,
+        0.0,
+        -0.0625,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.25,
+        0.25,
+        0.0,
+        -0.1125,
+        0.0,
+        -0.15,
+        -0.07777777777777778,
+        0.0,
+        0.0,
+        0.16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.08333333333333333,
+        0.0625,
+        0.0,
+        0.0,
+        0.0,
+        0.038461538461538464,
+        0.3181818181818182
+      ],
+      "keywords_found": {
+        "positive": [
+          "dividend",
+          "profit",
+          "target price",
+          "win"
+        ],
+        "negative": [
+          "cut",
+          "miss"
+        ],
+        "neutral": [
+          "quarterly",
+          "report",
+          "forecast"
+        ]
+      },
+      "keyword_density": 0.010067114093959731,
+      "total_investment_keywords": 9,
+      "matched_companies": [
+        {
+          "symbol": "ACEINTEG",
+          "company_name": "Ace Integrated Solutions Limited",
+          "matched_variant": "AIS",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "ACMESOLAR",
+          "company_name": "Acme Solar Holdings Limited",
+          "matched_variant": "ASH",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "AFFORDABLE",
+          "company_name": "Affordable Robotic & Automation Limited",
+          "matched_variant": "ARA",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "APOLSINHOT",
+          "company_name": "Apollo Sindoori Hotels Limited",
+          "matched_variant": "ASH",
+          "confidence": 0.5
+        }
+      ],
+      "company_count": 81,
+      "financial_numbers": [
+        555.74,
+        980.04,
+        921.69,
+        935.54,
+        284.67,
+        40.42,
+        980.04
+      ],
+      "percentages_mentioned": [
+        6.33,
+        4.76,
+        6.27,
+        0.0,
+        68.54,
+        67.22,
+        1.32,
+        7.87,
+        8.48,
+        0.61,
+        6.0,
+        17.32,
+        0.0,
+        6.33,
+        14.37,
+        23.31,
+        21.07,
+        19.27,
+        13.05,
+        145.95,
+        38.36,
+        600.0,
+        0.0,
+        2.11,
+        0.0
+      ],
+      "financial_terms": [
+        "revenue",
+        "profit",
+        "earnings",
+        "dividend",
+        "market cap",
+        "equity",
+        "roe",
+        "pe ratio",
+        "eps",
+        "sales"
+      ],
+      "financial_density": 0.011185682326621925,
+      "investment_score": 0.4175220538720539,
+      "impact_category": "Neutral",
+      "relevance_score": 0.6126291360190269
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/markets/stocks/news/360-one-wam-shares-in-focus-as-bc-asia-investments-likely-to-offload-3-7-stake-via-block-deal/articleshow/122826480.cms",
+      "title": "360 One WAM shares crack 6% as BC Asia Investments likely offloads 5% stake via block deal",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/360-one-wam-shares-in-focus-as-bc-asia-investments-likely-to-offload-3-7-stake-via-block-deal/articleshow/122826480.cms",
+      "content_length": 332,
+      "sentiment_score": 0.2,
+      "sentiment_subjectivity": 0.6,
+      "sentiment_label": "Positive",
+      "positive_sentences": 1,
+      "negative_sentences": 0,
+      "neutral_sentences": 1,
+      "sentence_sentiments": [
+        0.26666666666666666,
+        0.0
+      ],
+      "keywords_found": {
+        "positive": [
+          "investment"
+        ],
+        "negative": [],
+        "neutral": []
+      },
+      "keyword_density": 0.017241379310344827,
+      "total_investment_keywords": 1,
+      "matched_companies": [
+        {
+          "symbol": "360.0ONE",
+          "company_name": "360 ONE WAM LIMITED",
+          "matched_variant": "360 one wam",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ACC",
+          "company_name": "ACC Limited",
+          "matched_variant": "acc",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ACCELYA",
+          "company_name": "Accelya Solutions India Limited",
+          "matched_variant": "ASI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ADSL",
+          "company_name": "Allied Digital Services Limited",
+          "matched_variant": "ADS",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 13,
+      "financial_numbers": [],
+      "percentages_mentioned": [
+        6.0,
+        5.0
+      ],
+      "financial_terms": [
+        "investment"
+      ],
+      "financial_density": 0.017241379310344827,
+      "investment_score": 0.28,
+      "impact_category": "Highly Positive",
+      "relevance_score": 0.33578620689655175
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/360-one-wam-ltd/stocksupdate/companyid-22217.cms",
+      "title": "360 One Wam News",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/360-one-wam-ltd/stocksupdate/companyid-22217.cms",
+      "content_length": 460,
+      "sentiment_score": 0.04,
+      "sentiment_subjectivity": 0.06000000000000001,
+      "sentiment_label": "Neutral",
+      "positive_sentences": 1,
+      "negative_sentences": 0,
+      "neutral_sentences": 4,
+      "sentence_sentiments": [
+        0.0,
+        0.2,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "keywords_found": {
+        "positive": [
+          "license"
+        ],
+        "negative": [],
+        "neutral": []
+      },
+      "keyword_density": 0.013157894736842105,
+      "total_investment_keywords": 1,
+      "matched_companies": [
+        {
+          "symbol": "360.0ONE",
+          "company_name": "360 ONE WAM LIMITED",
+          "matched_variant": "360 one wam",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ANKITMETAL",
+          "company_name": "Ankit Metal & Power Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ASTRAMICRO",
+          "company_name": "Astra Microwave Products Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 18,
+      "financial_numbers": [],
+      "percentages_mentioned": [],
+      "financial_terms": [],
+      "financial_density": 0.0,
+      "investment_score": 0.21600000000000003,
+      "impact_category": "Neutral",
+      "relevance_score": 0.306
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/360-one-wam-ltd/quotecompare/companyid-22217.cms",
+      "title": "360 One Wam Competitors List",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/360-one-wam-ltd/quotecompare/companyid-22217.cms",
+      "content_length": 472,
+      "sentiment_score": 0.04,
+      "sentiment_subjectivity": 0.06000000000000001,
+      "sentiment_label": "Neutral",
+      "positive_sentences": 1,
+      "negative_sentences": 0,
+      "neutral_sentences": 4,
+      "sentence_sentiments": [
+        0.0,
+        0.2,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "keywords_found": {
+        "positive": [
+          "license"
+        ],
+        "negative": [],
+        "neutral": []
+      },
+      "keyword_density": 0.012987012987012988,
+      "total_investment_keywords": 1,
+      "matched_companies": [
+        {
+          "symbol": "360.0ONE",
+          "company_name": "360 ONE WAM LIMITED",
+          "matched_variant": "360 one wam",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ANKITMETAL",
+          "company_name": "Ankit Metal & Power Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ASTRAMICRO",
+          "company_name": "Astra Microwave Products Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 19,
+      "financial_numbers": [],
+      "percentages_mentioned": [],
+      "financial_terms": [],
+      "financial_density": 0.0,
+      "investment_score": 0.21600000000000003,
+      "impact_category": "Neutral",
+      "relevance_score": 0.30720000000000003
+    },
+    {
+      "article_id": "https://www.business-standard.com/markets/360-one-wam-ltd-share-price-66008.html",
+      "title": "360 ONE WAM Ltd Share Price Today, 1,033.50, 360 ONE WAM Ltd Stock Price 1,033.50 on 13th Aug 2025, 360 ONE WAM Ltd Stock Price Live NSE/BSE",
+      "source": "Business Standard",
+      "published_date": null,
+      "url": "https://www.business-standard.com/markets/360-one-wam-ltd-share-price-66008.html",
+      "content_length": 1949,
+      "sentiment_score": 0.07056884635832003,
+      "sentiment_subjectivity": 0.3348538011695907,
+      "sentiment_label": "Neutral",
+      "positive_sentences": 4,
+      "negative_sentences": 1,
+      "neutral_sentences": 16,
+      "sentence_sentiments": [
+        0.0,
+        0.0,
+        -0.16666666666666666,
+        -0.07777777777777778,
+        0.0,
+        0.0,
+        0.0,
+        0.3333333333333333,
+        0.16666666666666666,
+        0.0,
+        0.0,
+        0.0,
+        0.08,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.5,
+        0.0,
+        0.2,
+        0.04545454545454545
+      ],
+      "keywords_found": {
+        "positive": [
+          "dividend",
+          "profit",
+          "win"
+        ],
+        "negative": [],
+        "neutral": [
+          "report"
+        ]
+      },
+      "keyword_density": 0.009779951100244499,
+      "total_investment_keywords": 4,
+      "matched_companies": [
+        {
+          "symbol": "ACCELYA",
+          "company_name": "Accelya Solutions India Limited",
+          "matched_variant": "ASI",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "AGROPHOS",
+          "company_name": "Agro Phos India Limited",
+          "matched_variant": "API",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "ANSALAPI",
+          "company_name": "Ansal Properties & Infrastructure Limited",
+          "matched_variant": "API",
+          "confidence": 0.5
+        }
+      ],
+      "company_count": 32,
+      "financial_numbers": [
+        815.0,
+        284.67,
+        980.04,
+        804.21,
+        920.91
+      ],
+      "percentages_mentioned": [
+        1.52,
+        13.83,
+        6.4,
+        1.46,
+        149.02
+      ],
+      "financial_terms": [
+        "profit",
+        "dividend",
+        "market cap",
+        "eps",
+        "book value"
+      ],
+      "financial_density": 0.012224938875305624,
+      "investment_score": 0.42822753854332796,
+      "impact_category": "Positive",
+      "relevance_score": 0.5194759524208759
+    }
+  ],
+  "relevant_articles_only": [
+    {
+      "article_id": "https://economictimes.indiatimes.com/markets/stocks/etmarkets-podcast/et-market-watch-sensex-rises-304-pts-nifty-reclaims-24600-on-fed-cut-hopes-cooling-inflation/podcast/123282812.cms",
+      "title": "ET Market Watch: Sensex rises 304 pts, Nifty reclaims 24,600 on Fed cut hopes, cooling inflation",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/etmarkets-podcast/et-market-watch-sensex-rises-304-pts-nifty-reclaims-24600-on-fed-cut-hopes-cooling-inflation/podcast/123282812.cms",
+      "content_length": 2073,
+      "sentiment_score": 0.18564102564102566,
+      "sentiment_subjectivity": 0.42076923076923084,
+      "sentiment_label": "Positive",
+      "positive_sentences": 8,
+      "negative_sentences": 1,
+      "neutral_sentences": 11,
+      "sentence_sentiments": [
+        0.2,
+        0.5666666666666667,
+        0.5,
+        -0.1,
+        0.0,
+        0.6,
+        0.5,
+        0.35,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.08333333333333334,
+        0.08666666666666667,
+        -0.7,
+        1.0,
+        0.0,
+        0.0,
+        0.5,
+        0.0
+      ],
+      "keywords_found": {
+        "positive": [
+          "profit",
+          "record",
+          "green",
+          "surge",
+          "approval",
+          "boost",
+          "rally"
+        ],
+        "negative": [
+          "weak",
+          "cut",
+          "risk"
+        ],
+        "neutral": [
+          "update"
+        ]
+      },
+      "keyword_density": 0.03206997084548105,
+      "total_investment_keywords": 11,
+      "matched_companies": [
+        {
+          "symbol": "ACCELYA",
+          "company_name": "Accelya Solutions India Limited",
+          "matched_variant": "ASI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ACE",
+          "company_name": "Action Construction Equipment Limited",
+          "matched_variant": "ACE",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ACMESOLAR",
+          "company_name": "Acme Solar Holdings Limited",
+          "matched_variant": "ASH",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ADL",
+          "company_name": "Archidply Decor Limited",
+          "matched_variant": "ADL",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 95,
+      "financial_numbers": [
+        4679.0,
+        65.67
+      ],
+      "percentages_mentioned": [
+        1.1,
+        0.4,
+        1.4,
+        2.3,
+        8.0,
+        5.0,
+        5.0,
+        3.0,
+        0.6,
+        0.7,
+        0.7,
+        0.3
+      ],
+      "financial_terms": [
+        "profit",
+        "earnings"
+      ],
+      "financial_density": 0.0058309037900874635,
+      "investment_score": 0.4742564102564103,
+      "impact_category": "Highly Positive",
+      "relevance_score": 0.6472848919787695
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/markets/technical-charts?symbol=20MICRONSEQ&exchange=NSE&entity=company&periodicity=15",
+      "title": "20 Microns Ltd. Technical Chart NSE Stock Analysis, 20 Microns Ltd. Technical Chart Analysis",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/markets/technical-charts?symbol=20MICRONSEQ&exchange=NSE&entity=company&periodicity=15",
+      "content_length": 3323,
+      "sentiment_score": 0.15337974172719937,
+      "sentiment_subjectivity": 0.42678571428571443,
+      "sentiment_label": "Positive",
+      "positive_sentences": 11,
+      "negative_sentences": 0,
+      "neutral_sentences": 5,
+      "sentence_sentiments": [
+        0.8,
+        0.16666666666666666,
+        0.0,
+        0.19999999999999998,
+        0.5,
+        0.25,
+        -0.09999999999999999,
+        0.16,
+        0.5,
+        0.0,
+        0.3,
+        0.06397058823529411,
+        0.20714285714285716,
+        0.2,
+        0.19999999999999998,
+        -0.03333333333333333
+      ],
+      "keywords_found": {
+        "positive": [
+          "contract",
+          "profit",
+          "bull",
+          "investment",
+          "momentum"
+        ],
+        "negative": [
+          "risk",
+          "fall",
+          "drop",
+          "decline",
+          "fine",
+          "cut",
+          "bear"
+        ],
+        "neutral": []
+      },
+      "keyword_density": 0.022727272727272728,
+      "total_investment_keywords": 12,
+      "matched_companies": [
+        {
+          "symbol": "BUTTERFLY",
+          "company_name": "Butterfly Gandhimathi Appliances Limited",
+          "matched_variant": "BUTTERFLY",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "IGARASHI",
+          "company_name": "Igarashi Motors India Limited",
+          "matched_variant": "IMI",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "INDIACEM",
+          "company_name": "The India Cements Limited",
+          "matched_variant": "TIC",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "LUMAXTECH",
+          "company_name": "Lumax Auto Technologies Limited",
+          "matched_variant": "LAT",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "OMKARCHEM",
+          "company_name": "Omkar Speciality Chemicals Limited",
+          "matched_variant": "OSC",
+          "confidence": 0.5
+        }
+      ],
+      "company_count": 65,
+      "financial_numbers": [],
+      "percentages_mentioned": [],
+      "financial_terms": [
+        "profit",
+        "investment",
+        "roa"
+      ],
+      "financial_density": 0.005681818181818182,
+      "investment_score": 0.4613518966908797,
+      "impact_category": "Positive",
+      "relevance_score": 0.6391972081590725
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-eternal-tvs-motor-and-3-more-stocks-on-thursday-up-to-16-near-term-upside-seen/slideshow/123283494.cms",
+      "title": "Market Trading Guide: Buy Eternal, TVS Motor and 3 more stocks on Thursday. Up to 16% near term upside seen - Stock Ideas",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-eternal-tvs-motor-and-3-more-stocks-on-thursday-up-to-16-near-term-upside-seen/slideshow/123283494.cms",
+      "content_length": 1210,
+      "sentiment_score": 0.11355218855218856,
+      "sentiment_subjectivity": 0.31456228956228954,
+      "sentiment_label": "Positive",
+      "positive_sentences": 3,
+      "negative_sentences": 0,
+      "neutral_sentences": 9,
+      "sentence_sentiments": [
+        0.17777777777777778,
+        0.0,
+        0.43333333333333335,
+        0.03333333333333333,
+        0.056818181818181816,
+        0.0,
+        0.0,
+        0.075,
+        0.0,
+        0.0,
+        0.5,
+        0.1
+      ],
+      "keywords_found": {
+        "positive": [
+          "recommend",
+          "bull",
+          "momentum",
+          "win",
+          "rally"
+        ],
+        "negative": [
+          "concern",
+          "lower",
+          "bear"
+        ],
+        "neutral": []
+      },
+      "keyword_density": 0.04145077720207254,
+      "total_investment_keywords": 8,
+      "matched_companies": [
+        {
+          "symbol": "ACE",
+          "company_name": "Action Construction Equipment Limited",
+          "matched_variant": "ACE",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ADL",
+          "company_name": "Archidply Decor Limited",
+          "matched_variant": "ADL",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ANURAS",
+          "company_name": "Anupam Rasayan India Limited",
+          "matched_variant": "ARI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ARVEE",
+          "company_name": "Arvee Laboratories (India) Limited",
+          "matched_variant": "ALI",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 39,
+      "financial_numbers": [],
+      "percentages_mentioned": [
+        16.0
+      ],
+      "financial_terms": [],
+      "financial_density": 0.0,
+      "investment_score": 0.4454208754208754,
+      "impact_category": "Highly Positive",
+      "relevance_score": 0.6283880471380471
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/markets/stocks/earnings/irctc-q1-results-pat-rises-8-yoy-to-rs-331-crore/articleshow/123282619.cms",
+      "title": "IRCTC Q1 Results: PAT rises 8% YoY to Rs 331 crore",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/irctc-q1-results-pat-rises-8-yoy-to-rs-331-crore/articleshow/123282619.cms",
+      "content_length": 1928,
+      "sentiment_score": 0.06945929887106357,
+      "sentiment_subjectivity": 0.2954248366013072,
+      "sentiment_label": "Neutral",
+      "positive_sentences": 2,
+      "negative_sentences": 0,
+      "neutral_sentences": 6,
+      "sentence_sentiments": [
+        0.03409090909090909,
+        -0.05185185185185185,
+        0.2833333333333333,
+        -0.0625,
+        0.6,
+        -0.0625,
+        0.0,
+        0.0
+      ],
+      "keywords_found": {
+        "positive": [
+          "profit",
+          "growth"
+        ],
+        "negative": [
+          "lower",
+          "decline"
+        ],
+        "neutral": [
+          "report",
+          "results"
+        ]
+      },
+      "keyword_density": 0.018072289156626505,
+      "total_investment_keywords": 6,
+      "matched_companies": [
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "DCI",
+          "company_name": "Dc Infotech And Communication Limited",
+          "matched_variant": "DIA",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "EXICOM",
+          "company_name": "Exicom Tele-Systems Limited",
+          "matched_variant": "ETS",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "GOLDTECH",
+          "company_name": "AION-TECH SOLUTIONS LIMITED",
+          "matched_variant": "ATS",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "KABRAEXTRU",
+          "company_name": "Kabra Extrusion Technik Limited",
+          "matched_variant": "KET",
+          "confidence": 0.5
+        }
+      ],
+      "company_count": 29,
+      "financial_numbers": [
+        331.0,
+        308.0,
+        358.0,
+        160.0,
+        117.0,
+        268.53,
+        546.78,
+        558.89,
+        358.75,
+        329.07,
+        110.49,
+        111.47,
+        147.69,
+        122.32,
+        301.89,
+        272.33,
+        71.74,
+        77.92,
+        15.4,
+        13.58,
+        12.86,
+        9.33,
+        778.73,
+        759.36,
+        75.74,
+        41.48,
+        61.19,
+        51.42,
+        331.0,
+        331.0
+      ],
+      "percentages_mentioned": [
+        8.0,
+        3.0,
+        8.0,
+        8.0
+      ],
+      "financial_terms": [
+        "revenue",
+        "profit",
+        "growth"
+      ],
+      "financial_density": 0.009036144578313253,
+      "investment_score": 0.4277837195484254,
+      "impact_category": "Positive",
+      "relevance_score": 0.6187202464045128
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/360-one-wam-ltd/stocks/companyid-22217.cms",
+      "title": "360 One Wam Share Price Today, 360 One Wam Stock Price Live NSE",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/360-one-wam-ltd/stocks/companyid-22217.cms",
+      "content_length": 5324,
+      "sentiment_score": 0.04380513468013468,
+      "sentiment_subjectivity": 0.277287037037037,
+      "sentiment_label": "Neutral",
+      "positive_sentences": 6,
+      "negative_sentences": 3,
+      "neutral_sentences": 32,
+      "sentence_sentiments": [
+        0.0,
+        0.0,
+        0.3333333333333333,
+        0.0,
+        0.0,
+        -0.13333333333333333,
+        0.5,
+        0.0,
+        -0.0625,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.25,
+        0.25,
+        0.0,
+        -0.1125,
+        0.0,
+        -0.15,
+        -0.07777777777777778,
+        0.0,
+        0.0,
+        0.16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.08333333333333333,
+        0.0625,
+        0.0,
+        0.0,
+        0.0,
+        0.038461538461538464,
+        0.3181818181818182
+      ],
+      "keywords_found": {
+        "positive": [
+          "dividend",
+          "profit",
+          "target price",
+          "win"
+        ],
+        "negative": [
+          "cut",
+          "miss"
+        ],
+        "neutral": [
+          "quarterly",
+          "report",
+          "forecast"
+        ]
+      },
+      "keyword_density": 0.010067114093959731,
+      "total_investment_keywords": 9,
+      "matched_companies": [
+        {
+          "symbol": "ACEINTEG",
+          "company_name": "Ace Integrated Solutions Limited",
+          "matched_variant": "AIS",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "ACMESOLAR",
+          "company_name": "Acme Solar Holdings Limited",
+          "matched_variant": "ASH",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "AFFORDABLE",
+          "company_name": "Affordable Robotic & Automation Limited",
+          "matched_variant": "ARA",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "APOLSINHOT",
+          "company_name": "Apollo Sindoori Hotels Limited",
+          "matched_variant": "ASH",
+          "confidence": 0.5
+        }
+      ],
+      "company_count": 81,
+      "financial_numbers": [
+        555.74,
+        980.04,
+        921.69,
+        935.54,
+        284.67,
+        40.42,
+        980.04
+      ],
+      "percentages_mentioned": [
+        6.33,
+        4.76,
+        6.27,
+        0.0,
+        68.54,
+        67.22,
+        1.32,
+        7.87,
+        8.48,
+        0.61,
+        6.0,
+        17.32,
+        0.0,
+        6.33,
+        14.37,
+        23.31,
+        21.07,
+        19.27,
+        13.05,
+        145.95,
+        38.36,
+        600.0,
+        0.0,
+        2.11,
+        0.0
+      ],
+      "financial_terms": [
+        "revenue",
+        "profit",
+        "earnings",
+        "dividend",
+        "market cap",
+        "equity",
+        "roe",
+        "pe ratio",
+        "eps",
+        "sales"
+      ],
+      "financial_density": 0.011185682326621925,
+      "investment_score": 0.4175220538720539,
+      "impact_category": "Neutral",
+      "relevance_score": 0.6126291360190269
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/20-microns-ltd/stocks/companyid-22472.cms",
+      "title": "20 Microns Share Price Today, 20 Microns Stock Price Live NSE",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/20-microns-ltd/stocks/companyid-22472.cms",
+      "content_length": 5021,
+      "sentiment_score": 0.04213846801346801,
+      "sentiment_subjectivity": 0.299787037037037,
+      "sentiment_label": "Neutral",
+      "positive_sentences": 6,
+      "negative_sentences": 5,
+      "neutral_sentences": 30,
+      "sentence_sentiments": [
+        -0.25,
+        0.0,
+        0.3333333333333333,
+        0.0,
+        0.0,
+        -0.13333333333333333,
+        0.5,
+        0.0,
+        -0.0625,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.25,
+        0.25,
+        0.0,
+        -0.1125,
+        0.0,
+        -0.15,
+        -0.07777777777777778,
+        0.0,
+        0.0,
+        0.16,
+        0.0,
+        0.0,
+        -0.125,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.08333333333333333,
+        0.0625,
+        0.0,
+        0.0,
+        0.0,
+        0.06923076923076922,
+        0.3181818181818182
+      ],
+      "keywords_found": {
+        "positive": [
+          "dividend",
+          "profit",
+          "target price",
+          "win",
+          "export"
+        ],
+        "negative": [
+          "cut"
+        ],
+        "neutral": [
+          "quarterly",
+          "report",
+          "forecast"
+        ]
+      },
+      "keyword_density": 0.010650887573964497,
+      "total_investment_keywords": 9,
+      "matched_companies": [
+        {
+          "symbol": "AFFORDABLE",
+          "company_name": "Affordable Robotic & Automation Limited",
+          "matched_variant": "ARA",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "DEVIT",
+          "company_name": "Dev Information Technology Limited",
+          "matched_variant": "DIT",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "INDOTHAI",
+          "company_name": "Indo Thai Securities Limited",
+          "matched_variant": "ITS",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "INTELLECT",
+          "company_name": "Intellect Design Arena Limited",
+          "matched_variant": "IDA",
+          "confidence": 0.5
+        }
+      ],
+      "company_count": 74,
+      "financial_numbers": [
+        811.66,
+        248.26,
+        227.64,
+        232.39,
+        17.11,
+        3.53,
+        248.26
+      ],
+      "percentages_mentioned": [
+        9.06,
+        6.83,
+        45.04,
+        0.0,
+        0.88,
+        0.84,
+        0.04,
+        0.15,
+        0.15,
+        0.0,
+        0.0,
+        53.93,
+        0.54,
+        9.06,
+        14.52,
+        15.88,
+        14.24,
+        13.75,
+        10.71,
+        118.44,
+        38.36,
+        25.0,
+        0.54,
+        6.88,
+        4.65,
+        0.0,
+        2.45
+      ],
+      "financial_terms": [
+        "revenue",
+        "profit",
+        "earnings",
+        "dividend",
+        "market cap",
+        "equity",
+        "roe",
+        "pe ratio",
+        "eps",
+        "sales"
+      ],
+      "financial_density": 0.011834319526627219,
+      "investment_score": 0.4168553872053872,
+      "impact_category": "Neutral",
+      "relevance_score": 0.6123097649323611
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/markets/stocks/earnings/muthoot-finance-q1-results-profit-surges-90-to-rs-2046-crore-on-strong-loan-growth/articleshow/123280683.cms",
+      "title": "Muthoot Finance Q1 Results: Standalone profit surges 90% to Rs 2,046 crore on strong loan growth",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/muthoot-finance-q1-results-profit-surges-90-to-rs-2046-crore-on-strong-loan-growth/articleshow/123280683.cms",
+      "content_length": 776,
+      "sentiment_score": 0.3257575757575758,
+      "sentiment_subjectivity": 0.6318181818181818,
+      "sentiment_label": "Positive",
+      "positive_sentences": 7,
+      "negative_sentences": 0,
+      "neutral_sentences": 4,
+      "sentence_sentiments": [
+        0.3125,
+        0.0,
+        0.25,
+        0.35,
+        0.0,
+        0.3125,
+        0.0,
+        0.25,
+        0.35,
+        0.0,
+        0.43333333333333335
+      ],
+      "keywords_found": {
+        "positive": [
+          "profit",
+          "growth",
+          "surge"
+        ],
+        "negative": [],
+        "neutral": [
+          "results"
+        ]
+      },
+      "keyword_density": 0.03361344537815126,
+      "total_investment_keywords": 4,
+      "matched_companies": [
+        {
+          "symbol": "ADANIGREEN",
+          "company_name": "Adani Green Energy Limited",
+          "matched_variant": "AGE",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "ANURAS",
+          "company_name": "Anupam Rasayan India Limited",
+          "matched_variant": "ARI",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "ARIES",
+          "company_name": "Aries Agro Limited",
+          "matched_variant": "ARIES",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "AWFIS",
+          "company_name": "Awfis Space Solutions Limited",
+          "matched_variant": "ASS",
+          "confidence": 0.5
+        }
+      ],
+      "company_count": 20,
+      "financial_numbers": [
+        46.0
+      ],
+      "percentages_mentioned": [
+        90.0,
+        90.0,
+        90.0
+      ],
+      "financial_terms": [
+        "profit",
+        "assets",
+        "growth"
+      ],
+      "financial_density": 0.025210084033613446,
+      "investment_score": 0.5303030303030303,
+      "impact_category": "Highly Positive",
+      "relevance_score": 0.5628209065444361
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/markets/stocks/news/sp-500-nasdaq-hit-record-highs-at-open-on-september-rate-cut-hopes/articleshow/123282599.cms",
+      "title": "S&P 500, Nasdaq hit record highs on September rate cut hopes",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sp-500-nasdaq-hit-record-highs-at-open-on-september-rate-cut-hopes/articleshow/123282599.cms",
+      "content_length": 764,
+      "sentiment_score": 0.18541666666666667,
+      "sentiment_subjectivity": 0.4020833333333333,
+      "sentiment_label": "Positive",
+      "positive_sentences": 4,
+      "negative_sentences": 0,
+      "neutral_sentences": 3,
+      "sentence_sentiments": [
+        0.6,
+        0.05,
+        0.13749999999999998,
+        0.6,
+        0.05,
+        0.13749999999999998,
+        0.0
+      ],
+      "keywords_found": {
+        "positive": [
+          "surge",
+          "record",
+          "win"
+        ],
+        "negative": [
+          "cut"
+        ],
+        "neutral": []
+      },
+      "keyword_density": 0.03389830508474576,
+      "total_investment_keywords": 4,
+      "matched_companies": [
+        {
+          "symbol": "ACC",
+          "company_name": "ACC Limited",
+          "matched_variant": "acc",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ACCELYA",
+          "company_name": "Accelya Solutions India Limited",
+          "matched_variant": "ASI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ADANIGREEN",
+          "company_name": "Adani Green Energy Limited",
+          "matched_variant": "AGE",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 28,
+      "financial_numbers": [],
+      "percentages_mentioned": [],
+      "financial_terms": [
+        "roa"
+      ],
+      "financial_density": 0.00847457627118644,
+      "investment_score": 0.4741666666666666,
+      "impact_category": "Highly Positive",
+      "relevance_score": 0.5240253531073447
+    },
+    {
+      "article_id": "https://www.business-standard.com/markets/360-one-wam-ltd-share-price-66008.html",
+      "title": "360 ONE WAM Ltd Share Price Today, 1,033.50, 360 ONE WAM Ltd Stock Price 1,033.50 on 13th Aug 2025, 360 ONE WAM Ltd Stock Price Live NSE/BSE",
+      "source": "Business Standard",
+      "published_date": null,
+      "url": "https://www.business-standard.com/markets/360-one-wam-ltd-share-price-66008.html",
+      "content_length": 1949,
+      "sentiment_score": 0.07056884635832003,
+      "sentiment_subjectivity": 0.3348538011695907,
+      "sentiment_label": "Neutral",
+      "positive_sentences": 4,
+      "negative_sentences": 1,
+      "neutral_sentences": 16,
+      "sentence_sentiments": [
+        0.0,
+        0.0,
+        -0.16666666666666666,
+        -0.07777777777777778,
+        0.0,
+        0.0,
+        0.0,
+        0.3333333333333333,
+        0.16666666666666666,
+        0.0,
+        0.0,
+        0.0,
+        0.08,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.5,
+        0.0,
+        0.2,
+        0.04545454545454545
+      ],
+      "keywords_found": {
+        "positive": [
+          "dividend",
+          "profit",
+          "win"
+        ],
+        "negative": [],
+        "neutral": [
+          "report"
+        ]
+      },
+      "keyword_density": 0.009779951100244499,
+      "total_investment_keywords": 4,
+      "matched_companies": [
+        {
+          "symbol": "ACCELYA",
+          "company_name": "Accelya Solutions India Limited",
+          "matched_variant": "ASI",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "AGROPHOS",
+          "company_name": "Agro Phos India Limited",
+          "matched_variant": "API",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.5
+        },
+        {
+          "symbol": "ANSALAPI",
+          "company_name": "Ansal Properties & Infrastructure Limited",
+          "matched_variant": "API",
+          "confidence": 0.5
+        }
+      ],
+      "company_count": 32,
+      "financial_numbers": [
+        815.0,
+        284.67,
+        980.04,
+        804.21,
+        920.91
+      ],
+      "percentages_mentioned": [
+        1.52,
+        13.83,
+        6.4,
+        1.46,
+        149.02
+      ],
+      "financial_terms": [
+        "profit",
+        "dividend",
+        "market cap",
+        "eps",
+        "book value"
+      ],
+      "financial_density": 0.012224938875305624,
+      "investment_score": 0.42822753854332796,
+      "impact_category": "Positive",
+      "relevance_score": 0.5194759524208759
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/markets/stocks/earnings/jubilant-foodworks-q1-results-dominos-india-operator-beats-st-view-with-rs-91-76-crore-profit-on-strong-delivery-demand/articleshow/123281190.cms",
+      "title": "Jubilant Foodworks Q1 Results: Domino's India operator beats St view with Rs 91.76 crore profit on strong delivery demand",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/jubilant-foodworks-q1-results-dominos-india-operator-beats-st-view-with-rs-91-76-crore-profit-on-strong-delivery-demand/articleshow/123281190.cms",
+      "content_length": 583,
+      "sentiment_score": 0.2011904761904762,
+      "sentiment_subjectivity": 0.5297619047619048,
+      "sentiment_label": "Positive",
+      "positive_sentences": 2,
+      "negative_sentences": 0,
+      "neutral_sentences": 1,
+      "sentence_sentiments": [
+        0.26666666666666666,
+        0.05833333333333335,
+        0.43333333333333335
+      ],
+      "keywords_found": {
+        "positive": [
+          "profit"
+        ],
+        "negative": [
+          "struggle",
+          "lower"
+        ],
+        "neutral": [
+          "results"
+        ]
+      },
+      "keyword_density": 0.044444444444444446,
+      "total_investment_keywords": 4,
+      "matched_companies": [
+        {
+          "symbol": "ACC",
+          "company_name": "ACC Limited",
+          "matched_variant": "acc",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "BIL",
+          "company_name": "Bhartiya International Limited",
+          "matched_variant": "BIL",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "DCI",
+          "company_name": "Dc Infotech And Communication Limited",
+          "matched_variant": "DIA",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "DEN",
+          "company_name": "Den Networks Limited",
+          "matched_variant": "DEN",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 19,
+      "financial_numbers": [
+        91.76
+      ],
+      "percentages_mentioned": [],
+      "financial_terms": [
+        "profit"
+      ],
+      "financial_density": 0.011111111111111112,
+      "investment_score": 0.4804761904761905,
+      "impact_category": "Positive",
+      "relevance_score": 0.5102642857142857
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/markets/stocks/earnings/csb-bank-q1-profit-up-5-despite-nim-fall-provisions-surge/articleshow/123283536.cms",
+      "title": "CSB Bank Q1 profit up 5% despite NIM fall, provisions surge",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/csb-bank-q1-profit-up-5-despite-nim-fall-provisions-surge/articleshow/123283536.cms",
+      "content_length": 455,
+      "sentiment_score": 0.13214285714285715,
+      "sentiment_subjectivity": 0.325,
+      "sentiment_label": "Positive",
+      "positive_sentences": 1,
+      "negative_sentences": 0,
+      "neutral_sentences": 2,
+      "sentence_sentiments": [
+        0.26666666666666666,
+        0.03125,
+        0.0
+      ],
+      "keywords_found": {
+        "positive": [
+          "profit",
+          "surge"
+        ],
+        "negative": [
+          "lower",
+          "fall"
+        ],
+        "neutral": []
+      },
+      "keyword_density": 0.04938271604938271,
+      "total_investment_keywords": 4,
+      "matched_companies": [
+        {
+          "symbol": "ACC",
+          "company_name": "ACC Limited",
+          "matched_variant": "acc",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "COMSYN",
+          "company_name": "Commercial Syn Bags Limited",
+          "matched_variant": "CSB",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "CSBBANK",
+          "company_name": "CSB Bank Limited",
+          "matched_variant": "csb bank",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 19,
+      "financial_numbers": [
+        118.6
+      ],
+      "percentages_mentioned": [
+        5.0,
+        27.0,
+        5.0
+      ],
+      "financial_terms": [
+        "profit"
+      ],
+      "financial_density": 0.012345679012345678,
+      "investment_score": 0.45285714285714285,
+      "impact_category": "Positive",
+      "relevance_score": 0.4803875661375661
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/markets/stocks/earnings/muthoot-finance-q1-profit-jumps-90-on-strong-growth-lower-provisions/articleshow/123283581.cms",
+      "title": "Muthoot Finance Q1 profit jumps 90% on strong growth, lower provisions",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/muthoot-finance-q1-profit-jumps-90-on-strong-growth-lower-provisions/articleshow/123283581.cms",
+      "content_length": 491,
+      "sentiment_score": 0.2777777777777778,
+      "sentiment_subjectivity": 0.4777777777777778,
+      "sentiment_label": "Positive",
+      "positive_sentences": 3,
+      "negative_sentences": 0,
+      "neutral_sentences": 0,
+      "sentence_sentiments": [
+        0.26666666666666666,
+        0.21666666666666667,
+        0.43333333333333335
+      ],
+      "keywords_found": {
+        "positive": [
+          "profit",
+          "growth"
+        ],
+        "negative": [
+          "lower"
+        ],
+        "neutral": []
+      },
+      "keyword_density": 0.03529411764705882,
+      "total_investment_keywords": 3,
+      "matched_companies": [
+        {
+          "symbol": "ACC",
+          "company_name": "ACC Limited",
+          "matched_variant": "acc",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "DEN",
+          "company_name": "Den Networks Limited",
+          "matched_variant": "DEN",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "EASEMYTRIP",
+          "company_name": "Easy Trip Planners Limited",
+          "matched_variant": "ETP",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "EMSLIMITED",
+          "company_name": "EMS Limited",
+          "matched_variant": "ems",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 15,
+      "financial_numbers": [
+        46.0,
+        1.2
+      ],
+      "percentages_mentioned": [
+        90.0,
+        42.0,
+        90.0
+      ],
+      "financial_terms": [
+        "profit",
+        "growth"
+      ],
+      "financial_density": 0.023529411764705882,
+      "investment_score": 0.5111111111111111,
+      "impact_category": "Highly Positive",
+      "relevance_score": 0.47207385620915043
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-permits-use-of-mutual-funds-for-ias-ras-deposit-compliance/articleshow/123284024.cms",
+      "title": "Sebi permits use of mutual funds for IAs, RAs deposit compliance",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-permits-use-of-mutual-funds-for-ias-ras-deposit-compliance/articleshow/123284024.cms",
+      "content_length": 514,
+      "sentiment_score": 0.15714285714285714,
+      "sentiment_subjectivity": 0.3357142857142857,
+      "sentiment_label": "Positive",
+      "positive_sentences": 1,
+      "negative_sentences": 0,
+      "neutral_sentences": 3,
+      "sentence_sentiments": [
+        0.0,
+        0.0,
+        0.15714285714285714,
+        0.0
+      ],
+      "keywords_found": {
+        "positive": [
+          "investment"
+        ],
+        "negative": [],
+        "neutral": [
+          "meeting",
+          "report"
+        ]
+      },
+      "keyword_density": 0.039473684210526314,
+      "total_investment_keywords": 3,
+      "matched_companies": [
+        {
+          "symbol": "ADANIGREEN",
+          "company_name": "Adani Green Energy Limited",
+          "matched_variant": "AGE",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "BEL",
+          "company_name": "Bharat Electronics Limited",
+          "matched_variant": "BEL",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "CEREBRAINT",
+          "company_name": "Cerebra Integrated Technologies Limited",
+          "matched_variant": "CIT",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "EXCEL",
+          "company_name": "Excel Realty N Infra Limited",
+          "matched_variant": "ERNI",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 19,
+      "financial_numbers": [],
+      "percentages_mentioned": [],
+      "financial_terms": [
+        "investment"
+      ],
+      "financial_density": 0.013157894736842105,
+      "investment_score": 0.3628571428571429,
+      "impact_category": "Highly Positive",
+      "relevance_score": 0.44265939849624064
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/markets/stocks/earnings/senco-gold-q1-profit-doubles-on-festive-demand-showroom-expansion-margin-gains/articleshow/123283664.cms",
+      "title": "Senco Gold Q1 profit doubles on festive demand, showroom expansion, margin gains",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/senco-gold-q1-profit-doubles-on-festive-demand-showroom-expansion-margin-gains/articleshow/123283664.cms",
+      "content_length": 492,
+      "sentiment_score": 0.30833333333333335,
+      "sentiment_subjectivity": 0.5333333333333333,
+      "sentiment_label": "Positive",
+      "positive_sentences": 2,
+      "negative_sentences": 0,
+      "neutral_sentences": 1,
+      "sentence_sentiments": [
+        0.26666666666666666,
+        0.43333333333333335,
+        0.0
+      ],
+      "keywords_found": {
+        "positive": [
+          "profit",
+          "expansion"
+        ],
+        "negative": [],
+        "neutral": []
+      },
+      "keyword_density": 0.024390243902439025,
+      "total_investment_keywords": 2,
+      "matched_companies": [
+        {
+          "symbol": "ACC",
+          "company_name": "ACC Limited",
+          "matched_variant": "acc",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "DEN",
+          "company_name": "Den Networks Limited",
+          "matched_variant": "DEN",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "EASEMYTRIP",
+          "company_name": "Easy Trip Planners Limited",
+          "matched_variant": "ETP",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "EMSLIMITED",
+          "company_name": "EMS Limited",
+          "matched_variant": "ems",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 16,
+      "financial_numbers": [
+        104.6,
+        826.2
+      ],
+      "percentages_mentioned": [
+        30.0
+      ],
+      "financial_terms": [
+        "revenue",
+        "profit"
+      ],
+      "financial_density": 0.024390243902439025,
+      "investment_score": 0.42333333333333334,
+      "impact_category": "Highly Positive",
+      "relevance_score": 0.4299418699186992
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/markets/stocks/news/from-ipo-highs-to-earnings-lows-how-india-is-reworking-oil-imports-under-us-pressure-two-sharp/videoshow/123282366.cms",
+      "title": "From IPO highs to earnings lows & how India is reworking oil imports under US pressure | Two Sharp",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/from-ipo-highs-to-earnings-lows-how-india-is-reworking-oil-imports-under-us-pressure-two-sharp/videoshow/123282366.cms",
+      "content_length": 417,
+      "sentiment_score": -0.0685185185185185,
+      "sentiment_subjectivity": 0.3407407407407408,
+      "sentiment_label": "Neutral",
+      "positive_sentences": 0,
+      "negative_sentences": 1,
+      "neutral_sentences": 2,
+      "sentence_sentiments": [
+        -0.0625,
+        -0.175,
+        0.06944444444444446
+      ],
+      "keywords_found": {
+        "positive": [
+          "record",
+          "ipo",
+          "win"
+        ],
+        "negative": [],
+        "neutral": []
+      },
+      "keyword_density": 0.04225352112676056,
+      "total_investment_keywords": 3,
+      "matched_companies": [
+        {
+          "symbol": "ACCELYA",
+          "company_name": "Accelya Solutions India Limited",
+          "matched_variant": "ASI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ACEINTEG",
+          "company_name": "Ace Integrated Solutions Limited",
+          "matched_variant": "AIS",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGROPHOS",
+          "company_name": "Agro Phos India Limited",
+          "matched_variant": "API",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AKI",
+          "company_name": "AKI India Limited",
+          "matched_variant": "AKI",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 19,
+      "financial_numbers": [
+        14.6,
+        14.6
+      ],
+      "percentages_mentioned": [],
+      "financial_terms": [
+        "earnings"
+      ],
+      "financial_density": 0.014084507042253521,
+      "investment_score": 0.42740740740740735,
+      "impact_category": "Neutral",
+      "relevance_score": 0.41094230568596773
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/twentyfirst-century-management-services-ltd/quarterly/companyid-8108.cms",
+      "title": "Twentyfirst Century Management Services Quarterly Results, Financial Summary & Previous Quarter Results",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/twentyfirst-century-management-services-ltd/quarterly/companyid-8108.cms",
+      "content_length": 547,
+      "sentiment_score": 0.004761904761904765,
+      "sentiment_subjectivity": 0.06666666666666667,
+      "sentiment_label": "Neutral",
+      "positive_sentences": 1,
+      "negative_sentences": 0,
+      "neutral_sentences": 4,
+      "sentence_sentiments": [
+        0.0,
+        0.2,
+        0.0,
+        0.0,
+        -0.08333333333333333
+      ],
+      "keywords_found": {
+        "positive": [
+          "license"
+        ],
+        "negative": [],
+        "neutral": [
+          "quarterly",
+          "results"
+        ]
+      },
+      "keyword_density": 0.03571428571428571,
+      "total_investment_keywords": 3,
+      "matched_companies": [
+        {
+          "symbol": "ADANIGREEN",
+          "company_name": "Adani Green Energy Limited",
+          "matched_variant": "AGE",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ANKITMETAL",
+          "company_name": "Ankit Metal & Power Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ASTRAMICRO",
+          "company_name": "Astra Microwave Products Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 20,
+      "financial_numbers": [],
+      "percentages_mentioned": [],
+      "financial_terms": [],
+      "financial_density": 0.0,
+      "investment_score": 0.3019047619047619,
+      "impact_category": "Neutral",
+      "relevance_score": 0.40589047619047625
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/twentyfirst-century-management-services-ltd/stocksupdate/companyid-8108.cms",
+      "title": "Twentyfirst Century Management Services Announcement, Latest News on Twentyfirst Century Management Services",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/twentyfirst-century-management-services-ltd/stocksupdate/companyid-8108.cms",
+      "content_length": 552,
+      "sentiment_score": 0.11666666666666665,
+      "sentiment_subjectivity": 0.20000000000000004,
+      "sentiment_label": "Positive",
+      "positive_sentences": 2,
+      "negative_sentences": 0,
+      "neutral_sentences": 3,
+      "sentence_sentiments": [
+        0.0,
+        0.2,
+        0.0,
+        0.0,
+        0.5
+      ],
+      "keywords_found": {
+        "positive": [
+          "license"
+        ],
+        "negative": [],
+        "neutral": [
+          "announcement"
+        ]
+      },
+      "keyword_density": 0.023809523809523808,
+      "total_investment_keywords": 2,
+      "matched_companies": [
+        {
+          "symbol": "ADANIGREEN",
+          "company_name": "Adani Green Energy Limited",
+          "matched_variant": "AGE",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ANKITMETAL",
+          "company_name": "Ankit Metal & Power Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ASTRAMICRO",
+          "company_name": "Astra Microwave Products Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 20,
+      "financial_numbers": [],
+      "percentages_mentioned": [],
+      "financial_terms": [],
+      "financial_density": 0.0,
+      "investment_score": 0.2966666666666667,
+      "impact_category": "Highly Positive",
+      "relevance_score": 0.38436666666666675
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/123284303.cms",
+      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/123284303.cms",
+      "content_length": 497,
+      "sentiment_score": 0.13125,
+      "sentiment_subjectivity": 0.275,
+      "sentiment_label": "Positive",
+      "positive_sentences": 1,
+      "negative_sentences": 0,
+      "neutral_sentences": 2,
+      "sentence_sentiments": [
+        0.26666666666666666,
+        0.0375,
+        0.1
+      ],
+      "keywords_found": {
+        "positive": [
+          "boost"
+        ],
+        "negative": [
+          "cut"
+        ],
+        "neutral": []
+      },
+      "keyword_density": 0.024390243902439025,
+      "total_investment_keywords": 2,
+      "matched_companies": [
+        {
+          "symbol": "ACC",
+          "company_name": "ACC Limited",
+          "matched_variant": "acc",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ACCELYA",
+          "company_name": "Accelya Solutions India Limited",
+          "matched_variant": "ASI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AHLEAST",
+          "company_name": "Asian Hotels (East) Limited",
+          "matched_variant": "AHE",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 26,
+      "financial_numbers": [],
+      "percentages_mentioned": [],
+      "financial_terms": [],
+      "financial_density": 0.0,
+      "investment_score": 0.35250000000000004,
+      "impact_category": "Positive",
+      "relevance_score": 0.38251250000000003
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/20-microns-ltd/stocksupdate/companyid-22472.cms",
+      "title": "20 Microns Announcement, Latest News on 20 Microns",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/20-microns-ltd/stocksupdate/companyid-22472.cms",
+      "content_length": 494,
+      "sentiment_score": 0.11666666666666665,
+      "sentiment_subjectivity": 0.20000000000000004,
+      "sentiment_label": "Positive",
+      "positive_sentences": 2,
+      "negative_sentences": 0,
+      "neutral_sentences": 3,
+      "sentence_sentiments": [
+        0.0,
+        0.2,
+        0.0,
+        0.0,
+        0.5
+      ],
+      "keywords_found": {
+        "positive": [
+          "license"
+        ],
+        "negative": [],
+        "neutral": [
+          "announcement"
+        ]
+      },
+      "keyword_density": 0.025,
+      "total_investment_keywords": 2,
+      "matched_companies": [
+        {
+          "symbol": "20MICRONS",
+          "company_name": "20 Microns Limited",
+          "matched_variant": "20 microns",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ANKITMETAL",
+          "company_name": "Ankit Metal & Power Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ASTRAMICRO",
+          "company_name": "Astra Microwave Products Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 19,
+      "financial_numbers": [],
+      "percentages_mentioned": [],
+      "financial_terms": [],
+      "financial_density": 0.0,
+      "investment_score": 0.2966666666666667,
+      "impact_category": "Highly Positive",
+      "relevance_score": 0.3785666666666667
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/markets/stocks/news/360-one-wam-shares-in-focus-as-bc-asia-investments-likely-to-offload-3-7-stake-via-block-deal/articleshow/122826480.cms",
+      "title": "360 One WAM shares crack 6% as BC Asia Investments likely offloads 5% stake via block deal",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/360-one-wam-shares-in-focus-as-bc-asia-investments-likely-to-offload-3-7-stake-via-block-deal/articleshow/122826480.cms",
+      "content_length": 332,
+      "sentiment_score": 0.2,
+      "sentiment_subjectivity": 0.6,
+      "sentiment_label": "Positive",
+      "positive_sentences": 1,
+      "negative_sentences": 0,
+      "neutral_sentences": 1,
+      "sentence_sentiments": [
+        0.26666666666666666,
+        0.0
+      ],
+      "keywords_found": {
+        "positive": [
+          "investment"
+        ],
+        "negative": [],
+        "neutral": []
+      },
+      "keyword_density": 0.017241379310344827,
+      "total_investment_keywords": 1,
+      "matched_companies": [
+        {
+          "symbol": "360.0ONE",
+          "company_name": "360 ONE WAM LIMITED",
+          "matched_variant": "360 one wam",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ACC",
+          "company_name": "ACC Limited",
+          "matched_variant": "acc",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ACCELYA",
+          "company_name": "Accelya Solutions India Limited",
+          "matched_variant": "ASI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ADSL",
+          "company_name": "Allied Digital Services Limited",
+          "matched_variant": "ADS",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 13,
+      "financial_numbers": [],
+      "percentages_mentioned": [
+        6.0,
+        5.0
+      ],
+      "financial_terms": [
+        "investment"
+      ],
+      "financial_density": 0.017241379310344827,
+      "investment_score": 0.28,
+      "impact_category": "Highly Positive",
+      "relevance_score": 0.33578620689655175
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/twentyfirst-century-management-services-ltd/infocompanymanagement/companyid-8108.cms",
+      "title": "Twentyfirst Century Management Services Management Information",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/twentyfirst-century-management-services-ltd/infocompanymanagement/companyid-8108.cms",
+      "content_length": 506,
+      "sentiment_score": 0.04,
+      "sentiment_subjectivity": 0.06000000000000001,
+      "sentiment_label": "Neutral",
+      "positive_sentences": 1,
+      "negative_sentences": 0,
+      "neutral_sentences": 4,
+      "sentence_sentiments": [
+        0.0,
+        0.2,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "keywords_found": {
+        "positive": [
+          "license"
+        ],
+        "negative": [],
+        "neutral": []
+      },
+      "keyword_density": 0.01282051282051282,
+      "total_investment_keywords": 1,
+      "matched_companies": [
+        {
+          "symbol": "ADANIGREEN",
+          "company_name": "Adani Green Energy Limited",
+          "matched_variant": "AGE",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ANKITMETAL",
+          "company_name": "Ankit Metal & Power Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ASTRAMICRO",
+          "company_name": "Astra Microwave Products Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 19,
+      "financial_numbers": [],
+      "percentages_mentioned": [],
+      "financial_terms": [],
+      "financial_density": 0.0,
+      "investment_score": 0.21600000000000003,
+      "impact_category": "Neutral",
+      "relevance_score": 0.3106
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/twentyfirst-century-management-services-ltd/quotecompare/companyid-8108.cms",
+      "title": "Twentyfirst Century Management Services Competitors List",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/twentyfirst-century-management-services-ltd/quotecompare/companyid-8108.cms",
+      "content_length": 500,
+      "sentiment_score": 0.04,
+      "sentiment_subjectivity": 0.06000000000000001,
+      "sentiment_label": "Neutral",
+      "positive_sentences": 1,
+      "negative_sentences": 0,
+      "neutral_sentences": 4,
+      "sentence_sentiments": [
+        0.0,
+        0.2,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "keywords_found": {
+        "positive": [
+          "license"
+        ],
+        "negative": [],
+        "neutral": []
+      },
+      "keyword_density": 0.01282051282051282,
+      "total_investment_keywords": 1,
+      "matched_companies": [
+        {
+          "symbol": "ADANIGREEN",
+          "company_name": "Adani Green Energy Limited",
+          "matched_variant": "AGE",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ANKITMETAL",
+          "company_name": "Ankit Metal & Power Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ASTRAMICRO",
+          "company_name": "Astra Microwave Products Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 20,
+      "financial_numbers": [],
+      "percentages_mentioned": [],
+      "financial_terms": [],
+      "financial_density": 0.0,
+      "investment_score": 0.21600000000000003,
+      "impact_category": "Neutral",
+      "relevance_score": 0.31
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/20-microns-ltd/infocompanymanagement/companyid-22472.cms",
+      "title": "20 Microns Management Information",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/20-microns-ltd/infocompanymanagement/companyid-22472.cms",
+      "content_length": 477,
+      "sentiment_score": 0.04,
+      "sentiment_subjectivity": 0.06000000000000001,
+      "sentiment_label": "Neutral",
+      "positive_sentences": 1,
+      "negative_sentences": 0,
+      "neutral_sentences": 4,
+      "sentence_sentiments": [
+        0.0,
+        0.2,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "keywords_found": {
+        "positive": [
+          "license"
+        ],
+        "negative": [],
+        "neutral": []
+      },
+      "keyword_density": 0.013157894736842105,
+      "total_investment_keywords": 1,
+      "matched_companies": [
+        {
+          "symbol": "20MICRONS",
+          "company_name": "20 Microns Limited",
+          "matched_variant": "20 microns",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ADANIGREEN",
+          "company_name": "Adani Green Energy Limited",
+          "matched_variant": "AGE",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ANKITMETAL",
+          "company_name": "Ankit Metal & Power Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 19,
+      "financial_numbers": [],
+      "percentages_mentioned": [],
+      "financial_terms": [],
+      "financial_density": 0.0,
+      "investment_score": 0.21600000000000003,
+      "impact_category": "Neutral",
+      "relevance_score": 0.30770000000000003
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/twentyfirst-century-management-services-ltd/stocks/companyid-8108.cms",
+      "title": "Twentyfirst Cent Share Price Today, Twentyfirst Cent Stock Price Live NSE",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/twentyfirst-century-management-services-ltd/stocks/companyid-8108.cms",
+      "content_length": 803,
+      "sentiment_score": -0.0993939393939394,
+      "sentiment_subjectivity": 0.3066666666666667,
+      "sentiment_label": "Neutral",
+      "positive_sentences": 1,
+      "negative_sentences": 2,
+      "neutral_sentences": 7,
+      "sentence_sentiments": [
+        0.0,
+        0.0,
+        -0.16666666666666666,
+        0.0,
+        0.0,
+        0.0,
+        -0.15555555555555556,
+        0.0,
+        0.0,
+        0.13636363636363635
+      ],
+      "keywords_found": {
+        "positive": [],
+        "negative": [],
+        "neutral": []
+      },
+      "keyword_density": 0.0,
+      "total_investment_keywords": 0,
+      "matched_companies": [
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGROPHOS",
+          "company_name": "Agro Phos India Limited",
+          "matched_variant": "API",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ANSALAPI",
+          "company_name": "Ansal Properties & Infrastructure Limited",
+          "matched_variant": "API",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ARVEE",
+          "company_name": "Arvee Laboratories (India) Limited",
+          "matched_variant": "ALI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ASTRAZEN",
+          "company_name": "AstraZeneca Pharma India Limited",
+          "matched_variant": "API",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 11,
+      "financial_numbers": [
+        59.8
+      ],
+      "percentages_mentioned": [
+        0.61,
+        0.38,
+        16.34,
+        23.6
+      ],
+      "financial_terms": [
+        "market cap",
+        "pe ratio"
+      ],
+      "financial_density": 0.014285714285714285,
+      "investment_score": 0.13975757575757577,
+      "impact_category": "Neutral",
+      "relevance_score": 0.307291341991342
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/360-one-wam-ltd/quotecompare/companyid-22217.cms",
+      "title": "360 One Wam Competitors List",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/360-one-wam-ltd/quotecompare/companyid-22217.cms",
+      "content_length": 472,
+      "sentiment_score": 0.04,
+      "sentiment_subjectivity": 0.06000000000000001,
+      "sentiment_label": "Neutral",
+      "positive_sentences": 1,
+      "negative_sentences": 0,
+      "neutral_sentences": 4,
+      "sentence_sentiments": [
+        0.0,
+        0.2,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "keywords_found": {
+        "positive": [
+          "license"
+        ],
+        "negative": [],
+        "neutral": []
+      },
+      "keyword_density": 0.012987012987012988,
+      "total_investment_keywords": 1,
+      "matched_companies": [
+        {
+          "symbol": "360.0ONE",
+          "company_name": "360 ONE WAM LIMITED",
+          "matched_variant": "360 one wam",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ANKITMETAL",
+          "company_name": "Ankit Metal & Power Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ASTRAMICRO",
+          "company_name": "Astra Microwave Products Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 19,
+      "financial_numbers": [],
+      "percentages_mentioned": [],
+      "financial_terms": [],
+      "financial_density": 0.0,
+      "investment_score": 0.21600000000000003,
+      "impact_category": "Neutral",
+      "relevance_score": 0.30720000000000003
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/20-microns-ltd/quotecompare/companyid-22472.cms",
+      "title": "20 Microns Competitors List",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/20-microns-ltd/quotecompare/companyid-22472.cms",
+      "content_length": 471,
+      "sentiment_score": 0.04,
+      "sentiment_subjectivity": 0.06000000000000001,
+      "sentiment_label": "Neutral",
+      "positive_sentences": 1,
+      "negative_sentences": 0,
+      "neutral_sentences": 4,
+      "sentence_sentiments": [
+        0.0,
+        0.2,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "keywords_found": {
+        "positive": [
+          "license"
+        ],
+        "negative": [],
+        "neutral": []
+      },
+      "keyword_density": 0.013157894736842105,
+      "total_investment_keywords": 1,
+      "matched_companies": [
+        {
+          "symbol": "20MICRONS",
+          "company_name": "20 Microns Limited",
+          "matched_variant": "20 microns",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ANKITMETAL",
+          "company_name": "Ankit Metal & Power Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ASTRAMICRO",
+          "company_name": "Astra Microwave Products Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 19,
+      "financial_numbers": [],
+      "percentages_mentioned": [],
+      "financial_terms": [],
+      "financial_density": 0.0,
+      "investment_score": 0.21600000000000003,
+      "impact_category": "Neutral",
+      "relevance_score": 0.30710000000000004
+    },
+    {
+      "article_id": "https://economictimes.indiatimes.com/360-one-wam-ltd/stocksupdate/companyid-22217.cms",
+      "title": "360 One Wam News",
+      "source": "Economic Times",
+      "published_date": null,
+      "url": "https://economictimes.indiatimes.com/360-one-wam-ltd/stocksupdate/companyid-22217.cms",
+      "content_length": 460,
+      "sentiment_score": 0.04,
+      "sentiment_subjectivity": 0.06000000000000001,
+      "sentiment_label": "Neutral",
+      "positive_sentences": 1,
+      "negative_sentences": 0,
+      "neutral_sentences": 4,
+      "sentence_sentiments": [
+        0.0,
+        0.2,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "keywords_found": {
+        "positive": [
+          "license"
+        ],
+        "negative": [],
+        "neutral": []
+      },
+      "keyword_density": 0.013157894736842105,
+      "total_investment_keywords": 1,
+      "matched_companies": [
+        {
+          "symbol": "360.0ONE",
+          "company_name": "360 ONE WAM LIMITED",
+          "matched_variant": "360 one wam",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "AGRITECH",
+          "company_name": "Agri-Tech (India) Limited",
+          "matched_variant": "ATI",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ALIVUS",
+          "company_name": "Alivus Life Sciences Limited",
+          "matched_variant": "ALS",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ANKITMETAL",
+          "company_name": "Ankit Metal & Power Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        },
+        {
+          "symbol": "ASTRAMICRO",
+          "company_name": "Astra Microwave Products Limited",
+          "matched_variant": "AMP",
+          "confidence": 0.4
+        }
+      ],
+      "company_count": 18,
+      "financial_numbers": [],
+      "percentages_mentioned": [],
+      "financial_terms": [],
+      "financial_density": 0.0,
+      "investment_score": 0.21600000000000003,
+      "impact_category": "Neutral",
+      "relevance_score": 0.306
+    }
+  ],
+  "summary": {
+    "total_articles": 51,
+    "valid_articles": 27,
+    "sentiment_distribution": {
+      "Positive": 14,
+      "Neutral": 13
+    },
+    "impact_distribution": {
+      "Positive": 6,
+      "Highly Positive": 10,
+      "Neutral": 11
+    },
+    "top_companies_mentioned": {
+      "AGRITECH": 21,
+      "ALIVUS": 18,
+      "ANKITMETAL": 9,
+      "ADANIGREEN": 8,
+      "ASTRAMICRO": 8,
+      "ACC": 7,
+      "ACCELYA": 6,
+      "DEN": 3,
+      "AGROPHOS": 3,
+      "20MICRONS": 3
+    },
+    "average_sentiment_score": 0.108,
+    "average_relevance_score": 0.45,
+    "average_investment_score": 0.359,
+    "top_keywords": [
+      [
+        [
+          "profit",
+          "positive"
+        ],
+        11
+      ],
+      [
+        [
+          "license",
+          "positive"
+        ],
+        9
+      ],
+      [
+        [
+          "cut",
+          "negative"
+        ],
+        6
+      ],
+      [
+        [
+          "win",
+          "positive"
+        ],
+        6
+      ],
+      [
+        [
+          "report",
+          "neutral"
+        ],
+        5
+      ],
+      [
+        [
+          "lower",
+          "negative"
+        ],
+        5
+      ],
+      [
+        [
+          "surge",
+          "positive"
+        ],
+        4
+      ],
+      [
+        [
+          "results",
+          "neutral"
+        ],
+        4
+      ],
+      [
+        [
+          "investment",
+          "positive"
+        ],
+        3
+      ],
+      [
+        [
+          "growth",
+          "positive"
+        ],
+        3
+      ],
+      [
+        [
+          "record",
+          "positive"
+        ],
+        3
+      ],
+      [
+        [
+          "dividend",
+          "positive"
+        ],
+        3
+      ],
+      [
+        [
+          "quarterly",
+          "neutral"
+        ],
+        3
+      ],
+      [
+        [
+          "boost",
+          "positive"
+        ],
+        2
+      ],
+      [
+        [
+          "fall",
+          "negative"
+        ],
+        2
+      ]
+    ],
+    "highly_relevant_articles": 6
+  },
+  "top_companies_analyzed": [
+    "20 Microns Limited",
+    "21st Century Management Services Limited",
+    "360 ONE WAM LIMITED"
+  ]
+}
